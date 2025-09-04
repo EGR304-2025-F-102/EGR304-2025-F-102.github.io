@@ -7,7 +7,12 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+List at least five shared goals that reflect a successful product with regard to EGR 304. Focus on team / product goals that are deeper than "getting an A". <br>
+>   * Here
+>   * Are
+>   * five
+>   * bullet<br>
+>   * points. - Lets use them
 
 ## Communication Channels
 
@@ -16,7 +21,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
+|Jacob Dirks |  Discord | Phone | Canvas |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 

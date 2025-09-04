@@ -6,18 +6,22 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="5">Team 102<br>
 **Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Daniel Aukes <br>
   
 
 </center>
 
 ## Team Introduction
 > This will be updated as part of the preparation for the External Review.<br>
+>    ***We need to update this section to include our team introduction** <br>
+>    * Good news is that as I, Jacob Dirks, am editing these points that they
+>           simple pattern is easy to match.<br>
+>    * Secondarily, it seems that Appendix - App-Team-org.md is in need of updates.<br>
 >    * This needs to be updated to reflect a team introduction.<br>
 >    * Content should also help an unfamiliar reader navigate to areas of interest.
 
@@ -26,7 +30,9 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| David Cannon           | link | 
+| Jacob Dirks            | [Jacobdirks.GitHub](https://github.com/EGR304-2025-F-102/EGR304-2025-F-102.github.io.git) |
+| Austin Gonzalez        | link |
+| Terry Williams         | link |
+
+
