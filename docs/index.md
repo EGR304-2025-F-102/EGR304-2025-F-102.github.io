@@ -22,6 +22,7 @@ Daniel Aukes <br>
 >    * Good news is that as I, Jacob Dirks, am editing these points that they
 >           simple pattern is easy to match.<br>
 >    * Secondarily, it seems that Appendix - App-Team-org.md is in need of updates.<br>
+    >   * Team organization, (what is our project?),
 >    * This needs to be updated to reflect a team introduction.<br>
 >    * Content should also help an unfamiliar reader navigate to areas of interest.
 

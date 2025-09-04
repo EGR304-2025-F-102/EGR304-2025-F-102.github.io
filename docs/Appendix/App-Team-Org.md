@@ -38,31 +38,35 @@ Based on the information provided on in the "Team Member Communication Modes," t
 
 _**Appendix Table 2**: Weekly Schedule_
 
+<!-- this is a comment and here is what the chart is for:
+When are you available and plan to work on this every week?
+I currently put in times that are extra nice for me to work but there are various other times-->
+
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | - | - | - | - | - | - |
+| 11:00 AM | - | - | - | - | - | - | - |
+| 12:00 PM | - | - | - | - | - | - | - |
+| 1:00 PM | - | - | - | - | - | - | - |
+| 2:00 PM | - | - | - | - | - | - | - |
+| 3:00 PM | - | - | - | - | - | - | - |
+| 4:00 PM | - | - | - | - | - | - | - |
+| 5:00 PM | - | - | - | - | - | - | - |
+| 6:00 PM | - | J | - | - | - | - | - |
+| 7:00 PM | - | J | - | - | - | - | - |
+| 8:00 PM | - | J | - | - | J | - | - |
+| 9:00 PM | - | J | - | - | J | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| David Cannon | D |
+| Jacob Dirks | J |
+| Austin Gonzalez | A |
+| Terry Williams | T |
 
 
 ## Meeting Coordination
@@ -83,12 +87,18 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+| **Name**  | **Role**             |
+|:----------|:---------------------|
+|           |                      |
+|Jacob Dirks|                      |
+|           |                      |
+
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+Need to add content!! **Working on this section hopefully by Friday**
 
 
 ## Signatures
 
-Need to add content!!
+Need to add content!! **What are we supposed to do here**
 
