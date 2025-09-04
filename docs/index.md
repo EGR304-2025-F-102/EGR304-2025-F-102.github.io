@@ -16,13 +16,15 @@ Daniel Aukes <br>
 
 </center>
 
-## Team Introduction
+## Team Introduction 
+<!-- so we can remove the added pieces of this introduction  - Edits here include linking to individual data sheets and team introduction (help figuring out what that means)
+Edits for the team are based in App-team-org.md under docs - Appendix. and there will be other comments there -->
 > This will be updated as part of the preparation for the External Review.<br>
 >    ***We need to update this section to include our team introduction** <br>
 >    * Good news is that as I, Jacob Dirks, am editing these points that they
 >           simple pattern is easy to match.<br>
 >    * Secondarily, it seems that Appendix - App-Team-org.md is in need of updates.<br>
-    >   * Team organization, (what is our project?),
+>  <t>   * Team organization, (what is our project?),
 >    * This needs to be updated to reflect a team introduction.<br>
 >    * Content should also help an unfamiliar reader navigate to areas of interest.
 

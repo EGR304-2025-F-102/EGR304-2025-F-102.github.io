@@ -5,7 +5,8 @@ tags:
 - tag2
 ---
 
-## Team Goals
+## Team Goals 
+<!-- Edits that are necessary here include 5 shared goals for EGR 304, choosing communication choices, setting up meeting times, setting communication procedures, ... basically this whole page-->
 
 List at least five shared goals that reflect a successful product with regard to EGR 304. Focus on team / product goals that are deeper than "getting an A". <br>
 >   * Here
@@ -31,7 +32,7 @@ Based on the information provided on in the "Team Member Communication Modes," t
  
 ## Communication Procedures
 
-1. How will your team communicate?
+1. How will your team communicate? <!-- this will be solved via communication choices ideally top 2>
 2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
 
 ## Meeting Schedule
@@ -95,10 +96,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!! **Working on this section hopefully by Friday**
+Need to add content!! <!--**Working on this section hopefully by Friday**>
 
 
 ## Signatures
 
-Need to add content!! **What are we supposed to do here**
+Need to add content!! <!--**What are we supposed to do here**>
 
