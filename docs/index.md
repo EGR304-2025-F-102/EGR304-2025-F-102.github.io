@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Project Name<br>
 <font size="5">Team 102<br>
-**Submission: month, DD, YYYY**<br>
+**Submission: September, 04, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -37,5 +37,5 @@ Edits for the team are based in App-team-org.md under docs - Appendix. and there
 | Jacob Dirks            | [Jacobdirks.GitHub](https://github.com/EGR304-2025-F-102/EGR304-2025-F-102.github.io.git) |
 | Austin Gonzalez        | link |
 | Terry Williams         | link |
-
+[tlwill38-bit.GitHub](https://github.com/tlwill38-bit/tlwill38-bit.github.io) |
 
