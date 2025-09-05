@@ -50,7 +50,7 @@ I currently put in times that are extra nice for me to work but there are variou
 | 10:00 AM | - | - | - | - | - | - | - |
 | 11:00 AM | T | T | T | - | - | - | - |
 | 12:00 PM | T | T | T | - | - | - | - |
-| 1:00 PM | T | T | T | - | - | - | - |
+| 1:00 PM | T | T | T | T | - | - | - |
 | 2:00 PM | T | - | - | - | - | - | - |
 | 3:00 PM | T | - | - | - | - | - | - |
 | 4:00 PM | T | T | T | - | - | - | - |
