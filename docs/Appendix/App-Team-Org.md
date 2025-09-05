@@ -23,12 +23,12 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Member 1 |  ? | ? | ? |
 |Jacob Dirks |  Discord | Phone | Canvas |
-|Member 3 |  ? | ? | ? |
+|Terry Williams  |  Phone | Canvas | Discord |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is (to be determined)
  
 ## Communication Procedures
 
@@ -48,13 +48,13 @@ I currently put in times that are extra nice for me to work but there are variou
 | 8:00 AM | - | - | - | - | - | - | - |
 | 9:00 AM | - | - | - | - | - | - | - |
 | 10:00 AM | - | - | - | - | - | - | - |
-| 11:00 AM | - | - | - | - | - | - | - |
-| 12:00 PM | - | - | - | - | - | - | - |
-| 1:00 PM | - | - | - | - | - | - | - |
-| 2:00 PM | - | - | - | - | - | - | - |
-| 3:00 PM | - | - | - | - | - | - | - |
-| 4:00 PM | - | - | - | - | - | - | - |
-| 5:00 PM | - | - | - | - | - | - | - |
+| 11:00 AM | T | T | T | - | - | - | - |
+| 12:00 PM | T | T | T | - | - | - | - |
+| 1:00 PM | T | T | T | - | - | - | - |
+| 2:00 PM | T | - | - | - | - | - | - |
+| 3:00 PM | T | - | - | - | - | - | - |
+| 4:00 PM | T | T | T | - | - | - | - |
+| 5:00 PM | T | T | T | - | - | - | - |
 | 6:00 PM | - | J | - | - | - | - | - |
 | 7:00 PM | - | J | - | - | - | - | - |
 | 8:00 PM | - | J | - | - | J | - | - |
@@ -92,7 +92,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 |:----------|:---------------------|
 |           |                      |
 |Jacob Dirks|                      |
-|           |                      |
+|Terry Williams|                   |
 
 ## Conflict Recognition & Resolution
 
@@ -101,5 +101,5 @@ Need to add content!! <!--**Working on this section hopefully by Friday**>
 
 ## Signatures
 
-Need to add content!! <!--**What are we supposed to do here**>
-
+Need to add content!! <!--**What are we supposed to do here (sign your name here) **>
+Terry Williams

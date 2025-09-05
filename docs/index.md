@@ -37,5 +37,5 @@ Edits for the team are based in App-team-org.md under docs - Appendix. and there
 | Jacob Dirks            | [Jacobdirks.GitHub](https://github.com/EGR304-2025-F-102/EGR304-2025-F-102.github.io.git) |
 | Austin Gonzalez        | link |
 | Terry Williams         |
-[tlwill38-bit.GitHub](https://github.com/tlwill38-bit/tlwill38-bit.github.io) |
+[tlwill38-bit.GitHub](https://github.com/EGR304-2025-F-102/EGR304-2025-F-102.github.io.git) |
 
