@@ -23,8 +23,8 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Member 1 |  ? | ? | ? |
 |Jacob Dirks |  Discord | Phone | Canvas |
+|Member 3 |  ? | ? | ? |
 |Terry Williams  |  Phone | Canvas | Discord |
-|Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
@@ -91,15 +91,16 @@ _**Appendix Table 2**: Project Roles and Duties_
 | **Name**  | **Role**             |
 |:----------|:---------------------|
 |           |                      |
-|Jacob Dirks|                      |
+|Jacob Dirks|  Assignment Leader   |
+|           |                      |
 |Terry Williams|                   |
 
 ## Conflict Recognition & Resolution
 
-Need to add content!! <!--**Working on this section hopefully by Friday**>
+Need to add content!! <!--**Working on this section hopefully by Friday**-->
 
 
 ## Signatures
 
-Need to add content!! <!--**What are we supposed to do here (sign your name here) **>
+Need to add content!! <!--**What are we supposed to do here (sign your name here) **-->
 Terry Williams
