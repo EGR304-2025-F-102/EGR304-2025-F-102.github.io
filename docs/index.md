@@ -17,16 +17,10 @@ Daniel Aukes <br>
 </center>
 
 ## Team Introduction 
-<!-- so we can remove the added pieces of this introduction  - Edits here include linking to individual data sheets and team introduction (help figuring out what that means)
-Edits for the team are based in App-team-org.md under docs - Appendix. and there will be other comments there -->
-> This will be updated as part of the preparation for the External Review.<br>
->    ***We need to update this section to include our team introduction** <br>
->    * Good news is that as I, Jacob Dirks, am editing these points that they
->           simple pattern is easy to match.<br>
->    * Secondarily, it seems that Appendix - App-Team-org.md is in need of updates.<br>
->  <t>   * Team organization, (what is our project?),
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+ Greetings, we are team 102 for EGR 304 at Arizona State University. Our goal is to use four individual projects that can then be combined to form a more complex system that will achieve a more streamlined, resource saving, or automated process for the home. This project will require us to learn embedded system architecture, coding processes, project resource management, cross discipline communication, and interaction with sensor to a higher degree than we have proceeded before. 
+>  <t>   **Areas of Importance**
+>    * Team Organization and Standards are located in Appendix: Team Organization.
+>    * More areas of interest to come, stay tuned!
 
 
 ## Team Members Datasheet links
