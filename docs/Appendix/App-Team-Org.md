@@ -11,9 +11,9 @@ tags:
 List at least five shared goals that reflect a successful product with regard to EGR 304. Focus on team / product goals that are deeper than "getting an A". <br>
 >   * Ensure project scope is clearly defined and obtainable given the skillset of the team and the time constraint of the semester. 
 >   * Create a project that has real world applicability. 
->   * five
->   * bullet<br>
->   * points. - Lets use them
+>   * Create a project that is responable in cost. 
+>   * Create a project that is relevant to EGR 304 course material
+>   * Ensure project is fully functioning and working by end of semester.
 
 ## Communication Channels
 
@@ -95,7 +95,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Name**  | **Role**             |
 |:----------|:---------------------|
-|           |                      |
+| David Cannon|                      |
 |Jacob Dirks|  Assignment Leader   |
 |Austin Gonzalez|Meeting Leader    |
 |Terry Williams|Meeting Recorder|
