@@ -72,10 +72,13 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+Our team will use our main established communication methods to remind group members of meetings. Reminders can also be done in person during class time, assuming all members are present and aware of when the meeting will be held.
+
+Changes or additonal meeting times will require all members to be informed and aware. Members will collaborate to agree upon a time that fits every persons schedule and aligns with each persons availiabilty. 
+
+Preffered meeting format can vary depending on each members preference or availibility, agreement for format can be determined before sheduled meeting. 
+<!-- Left other procedures empty at the moment -->
+
 
 ## Roles & Responsibilities
 
