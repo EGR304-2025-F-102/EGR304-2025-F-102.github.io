@@ -112,6 +112,6 @@ Our team recognizes that differences of opinion are an inevitable and valuable p
 ## Signatures
 
 These signatures affirm that the team members will uphold to the best of their ability the standards of conduct that have been put forth in this document.<br>
-   * Terry Williams
-   * Austin Gonzalez
-   * Jacob Dirks
+   -  Terry Williams
+   -  Austin Gonzalez
+   -  Jacob Dirks
