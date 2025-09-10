@@ -4,18 +4,79 @@ tags:
 - tag1
 - tag2
 ---
+<!-- This is the document we are supposed to edit.. It Looks like we aren't provided with too much of the output and that's ok
+Heads up we are asked to gather 100 need statements-->
+## Introduction to the Process
+<!-- I want another place besides amazon -->
+Every project starts with a problem. Typically the problem comes from a group 
+that has some use case for the product or from a varying need that isn't answered 
+by the current market. In order to make a useful item to the everyday house owner, 
+cleaner, and guardian we must search in the places where their voices can be heard. 
+This will include online shopping areas with reviews like **Amazon**(https:/www.amazon.com).
+We will be look for several elements for each item:
 
-## Et poposcerat rursus ad magnus premit
+<!--Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
+cur, aut in adhuc crimina **habebat**: pro.-->
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+- Numerous positive ratings
+- Numerous negative ratings
+- 
+- 
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+<!-- Below is a template for each element
+##Search #1
 
-## Esse quoque sedem plena nunc iecur
+**Keywords:**
+
+**Search Results Link:**
+
+##Selected Products
+
+###1. Please enter name here(link)
+
+
+(name.fileType) <!please store it with a recognizable name>
+
+####Positive Comments
+| **Voice of the Customer** | **Restated Customer Need** |
+|   |1. |
+|   |2. |
+|   |3. |
+
+####Negative Comments
+| **Voice of the Customer** | **Restated Customer Need** |
+|   |1. |
+|   |2. |
+|   |3. |
+
+-->
+
+##Search #1
+
+**Keywords:**
+
+**Search Results Link:**
+
+##Selected Products
+
+###1. Please enter name here(link)
+
+
+(name.fileType) <!please store it with a recognizable name>
+
+####Positive Comments
+| **Voice of the Customer** | **Restated Customer Need** |
+|   |1. |
+|   |2. |
+|   |3. |
+
+####Negative Comments
+| **Voice of the Customer** | **Restated Customer Need** |
+|   |1. |
+|   |2. |
+|   |3. |
+
+<!-- The extra tabs over on the if makes it appear embedded which might be nice
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
 mea. Nec tamen quae gravem, potens, [cognoscendo
@@ -87,4 +148,4 @@ Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
 auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
 ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
 Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
+ingentia non. -->
