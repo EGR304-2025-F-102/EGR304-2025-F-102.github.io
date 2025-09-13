@@ -67,11 +67,11 @@ cur, aut in adhuc crimina **habebat**: pro.-->
 ####Positive Comments
  | **Voice of the Customer**                                             | **Restated Customer Need**                                    |
  |:----------------------------------------------------------------------|--------------------------------------------------------------:|
- |  "Total game-changer for plant parents! This smart watering system    |1. The system needs to reliably  water the plants. (explicit)  |
- |has been a lifesaver for my 20 plants. The programmable timer and      |2. App is easy to use. (explicit)                              |
- |Alexa compatibility make it super easy to use. No more overwatering    |3. System is intuitive to understand. (latent)                 |
- |or  underwatering my plants are thriving! The setup was a breeze, and  |4. Keeps plants at proper water level. ()                      | 
- |the system's reliability gives me peace of mind. Highly recommend!"    |                                                               |
+   "Total game-changer for plant parents! This smart watering system    |1. The system needs to reliably  water the plants. (explicit)  |
+ has been a lifesaver for my 20 plants. The programmable timer and      |2. App is easy to use. (explicit)                              |
+ Alexa compatibility make it super easy to use. No more overwatering    |3. System is intuitive to understand. (latent)                 |
+ or  underwatering my plants are thriving! The setup was a breeze, and  |4. Keeps plants at proper water level. ()                      | 
+ the system's reliability gives me peace of mind. Highly recommend!"    |                                                               |
  |                                                                       |                                                               |
 
 | "It's adorable. I love the way it looks and the way it DID light up. Turned it on for a couple hours one day, and the next day I turned it on, left the house for 5 hours and returned to a dead battery. It's really cute, the interchangeable details are held to the sign well. The bow needed a little fluffing, but that was due to shipping. I just wish the battery in the back light lasted longer."  |5. Device needs to have efficient power use. (latent) |
