@@ -207,15 +207,15 @@ Vendor: Amazon
 | "The user needs a dependable irrigation system that balances power, ease of use, and adaptability."                                                                                               |                  15. The user needs a dependable irrigation system that balances power, ease of use, and adaptability. (latent) |
 
 
- ####Negative Comments
-| **Voice of the Customer**                                                                                                                                       |                                                                                                    **Restated Customer Need** |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------: |
-| "The drippers are not good quality; two broke while I was installing them."                                                                                     |                         1. The drippers need to be durable so that do not break during installation or normal use. (explicit) |
-| "The pipe is so small that the drippers are so difficult to install… and eventually can break."                                                                 | 2. The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) |
-| "If you are using them in hot weather this plastic from the drippers are not good for it, they won’t last long."                                                |                                3. All system components need to perform reliably in hot or harsh weather conditions. (latent) |
-| "This device has USB on it but it’s on the battery, not the pump… frustrating that you cannot easily swap batteries due to its housing being a custom molding." |                        4. The user needs a battery that is easily replaceable when it reaches the end of its life. (explicit) |
-| "Two years from now when that battery fails most users will be sitting on e-waste tech."                                                                        |                                 5. The user needs a sustainable design that allows failed components to be replaced. (latent) |
-| "If the solar panel ever fails… you’d need to remove the battery, wipe all your presets, charge the battery, then put all the presets back in."                 |                        6. The user needs a built-in reset or recovery mode for diagnostics without full disassembly. (latent) |
+#### Negative Comments
+| **Voice of the Customer** | **Restated Customer Need** |
+|----------------------------|----------------------------|
+| "The drippers are not good quality; two broke while I was installing them." | 1. The drippers need to be durable so that do not break during installation or normal use. (explicit) |
+| "The pipe is so small that the drippers are so difficult to install… and eventually can break." | 2. The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) |
+| "If you are using them in hot weather this plastic from the drippers are not good for it, they won’t last long." | 3. All system components need to perform reliably in hot or harsh weather conditions. (latent) |
+| "This device has USB on it but it’s on the battery, not the pump… frustrating that you cannot easily swap batteries due to its housing being a custom molding." | 4. The user needs a battery that is easily replaceable when it reaches the end of its life. (explicit) |
+| "Two years from now when that battery fails most users will be sitting on e-waste tech." | 5. The user needs a sustainable design that allows failed components to be replaced. (latent) |
+| "If the solar panel ever fails… you’d need to remove the battery, wipe all your presets, charge the battery, then put all the presets back in." | 6. The user needs a built-in reset or recovery mode for diagnostics without full disassembly. (latent) |
 
 
 ####User Needs Table
