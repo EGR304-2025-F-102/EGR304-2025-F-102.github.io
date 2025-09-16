@@ -138,13 +138,13 @@ This solar drip irrigation system sounded great, but it didn’t meet my expecta
 
 ##Selected Products
 
-###1. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer
-](https://a.co/d/8LSiB7Y)
+###1. [LetPot Automatic Watering System for Potted Plants, Drip Irrigation Kit System, Smart Plant Watering Devices for Indoor Outdoor, Water Shortage Remind, IPX66
+](https://a.co/d/0hPzhiT)
 
 
 [Dual Pump Automatic Watering System Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
 
-Price: $35.09
+Price: $62.99
 
 Vendor: Amazon
 
@@ -152,21 +152,44 @@ Vendor: Amazon
 ####Positive Comments
  | **Voice of the Customer**                                             | **Restated Customer Need**                                    |
  |:----------------------------------------------------------------------|--------------------------------------------------------------:|
-   " A Much Better Solution Than Open-Bucket Systems"    |1. The system is a better solution than a previous system. (explicit)  |
+   "  If I was using soil instead of DWC, the proper amount to water is even easier to determine."    |1. The device is versatile in growing media types. (explicit)  |
 " Setup was straightforward, and programming the digital timer was easy "      |2. System is easy to use. (explicit)                              |
-" Materials used are solid, not cheap and flimsy like some similar product "  |3. System is made from quality and durable material. (explicit)                 |
-"Dual Pumps for Zoning: The dual pump system is a fantastic feature. It allows me to create two different watering zones." |4. Gives user control and options. (Implicit)                      | 
+" t took about a week to get the watering levels exactly where I wanted them because while you can water multiple plants at one time, there is only one siphon from your water source"  |3. The user needs precise, easily adjustable controls to calibrate watering levels across multiple outputs. (latent)             |
+                    | 
  |                                                               |
 
-" Works with Closed Water Containers: This is the most important difference and a huge win. Instead of an open bucket, I can run the intake tubes directly into large, sealed water jugs (like the 5-gallon ones for a water cooler). This completely solves my two biggest problems: my cats can't get to the water source, and the setup looks much neater in the room.
+" I am using the Letpot watering device in a deep water culture (DWC) grow room. It took about a week to get the watering levels exactly where I wanted them because while you can water multiple plants at one time, there is only one siphon from your water source. So, you have to adjust the flow for each plant accordingly. Very easily done, it just takes a little tweaking. If I was using soil instead of DWC, the proper amount to water is even easier to determine. Great little product that makes my gardening life MUCH easier."
 
-Dual Pumps for Zoning: The dual pump system is a fantastic feature. It allows me to create two different watering zones. I can have one pump watering my moisture-loving plants on one schedule, and the second pump watering my plants that prefer to be drier on a completely different, less frequent schedule. It offers a lot of control.
+                                                                                                                            ##Search #1
 
-Easy to Program: Despite being more advanced, the setup was still straightforward. The digital timer is easy to program for watering duration and frequency for each of the two pumps.
+**Keywords:** "automatic plant waterer"
 
-Powerful and Consistent: The pumps seem strong enough to push water consistently to all the plant locations I've set up."
+**Search Results Link:**[https://www.amazon.com/s?k=automatic+plant+waterer&crid=3O3ZFG50ZHRH4&sprefix=automatic+pl%2Caps%2C148&ref=nb_sb_ss_saint-en-prefix-wq_1_12](https://www.amazon.com/s?k=automatic+plant+waterer&crid=3O3ZFG50ZHRH4&sprefix=automatic+pl%2Caps%2C148&ref=nb_sb_ss_saint-en-prefix-wq_1_12);
 
-                                                                                                                                    
+##Selected Products
+
+###1. [Smart Automatic Plant Watering System- Plant Watering Devices for 20 Potted Plants, Auto Drip Irrigation System Programmable Timer & Compatible With Alexa](https://a.co/d/8LSiB7Y)
+
+
+[Smart Automatic Plant Watering System Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
+
+####Positive Comments
+ | **Voice of the Customer**                                             | **Restated Customer Need**                                    |
+ |:----------------------------------------------------------------------|--------------------------------------------------------------:|
+   "Total game-changer for plant parents! This smart watering system    |1. The system needs to reliably  water the plants. (explicit)  |
+ has been a lifesaver for my 20 plants. The programmable timer and      |2. App is easy to use. (explicit)                              |
+ Alexa compatibility make it super easy to use. No more overwatering    |3. System is intuitive to understand. (latent)                 |
+ or  underwatering my plants are thriving! The setup was a breeze, and  |4. Keeps plants at proper water level. ()                      | 
+ the system's reliability gives me peace of mind. Highly recommend!"    |                                                               |
+ |                                                                       |                                                               |
+
+| "It's adorable. I love the way it looks and the way it DID light up. Turned it on for a couple hours one day, and the next day I turned it on, left the house for 5 hours and returned to a dead battery. It's really cute, the interchangeable details are held to the sign well. The bow needed a little fluffing, but that was due to shipping. I just wish the battery in the back light lasted longer."  |5. Device needs to have efficient power use. (latent) |
+|   |6. Device needs to have back up option for power. (latent) |
+This is a fantastic functional smart unit. It does everything I need it to do and it does it easily. I water my plants using aquarium water because fish produce their own quite amazing fertilizer. This pump unit sucks water directly out of the sump that supplies my linked aquariums. It could just as easily take it out of any aquarium if you are lucky enough to have one. The intake hoses include air stones as filters which is a great invention. I've been doing that for years on another terrarium mister and it works great. This unit has two full-strength pumps. I chose to use 1/4" irrigation tubing because I happen to have a lot of that. This kit comes with clear tubing which is more flexible and less visible. Now that I've tested with the stuff I have, my next round on the second pump will be the clear tubing because it will be on a more visible circuit. This kit comes with enough drip heads for 20 plants though it would be easy to buy more. They're pretty standard. It also comes with plenty of T junctions and plugs and whatever else you'll need to build your custom setup. There are some complaints about the Tuya app requiring personal information and I completely agree. I used Tuya the first time a few years ago and was super leery. They've since expanded to be a pretty standard interface. Once you use the app to connect to Alexa (or whichever your home automation program of choice is) you can disable it again. The experience was really user friendly. As it is, I now have this set up to water my plants on a weekly basis for just a couple minutes per week. I may invest in some better drip heads that are more adjustable flow drippers so I can customize the amount of water per pot rather than just to the whole circuit. The water pressure is really good. I was surprised. The furthest plant I have from the tank has to be nearly 20 feet and it was already dripping before I got up to check it. They pressure is adequate for plenty of plants. The next step for me will be to research and **buy a smart moisture meter** so this will automatically water when my plants get to a certain dryness. I love this.
+   |7. The device needs to have modularity (latent)|
+|   |8. The kit needs to have backup pieces. (latent)|
+|   |9. The device needs to measure water moisture in plants. (explicit)|
+|   |10. The device needs secure non leaking hoses. (latent)|        
 <!-- The extra tabs over on the if makes it appear embedded which might be nice
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
