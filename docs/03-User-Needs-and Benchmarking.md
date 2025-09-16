@@ -217,7 +217,9 @@ Vendor: Amazon
 
 
 ####User Needs Table
-add description of how we got to this order here
+The categories were determined based on criticality to core device function, user impact and usability, technical dependencies and feasibility, risk and safety considerations and less critical but still important aspects. We were able to narrow that down into 11 categories in no specific order. The need statments in the table below are in order of importance with most important being first per catagory. Our Team determined the ranking based on direct impact on system reliability and core performance, user safety and failure prevention, user control and customization flexibility, ease of use and accessibility, environmental resilience and durability, convenience and aesthetic features, and redundancies and backups. 
+
+
 ##Device Requirements Tables
 | Requirement                                                                                        | Type        |
 | -------------------------------------------------------------------------------------------------- | ----------- |
