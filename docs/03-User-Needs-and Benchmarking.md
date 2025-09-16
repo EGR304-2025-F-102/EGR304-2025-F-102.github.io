@@ -139,7 +139,7 @@ This solar drip irrigation system sounded great, but it didn’t meet my expecta
 ##Selected Products
 
 ###1. [LetPot Automatic Watering System for Potted Plants, Drip Irrigation Kit System, Smart Plant Watering Devices for Indoor Outdoor, Water Shortage Remind, IPX66
-](https://a.co/d/0hPzhiT)
+](https://a.co/d/0hPzhiT);
 
 
 [Dual Pump Automatic Watering System Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
@@ -149,18 +149,53 @@ Price: $62.99
 Vendor: Amazon
 
 
+| **Voice of the Customer**                                                                                                                                                                                                                                                                              |                                                                                                    **Restated Customer Need** |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------: |
+| "If I was using soil instead of DWC, the proper amount to water is even easier to determine. Great little product that makes my gardening life MUCH easier."                                                                                                                                           |                                                                 1. The device is versatile in growing media types. (explicit) |
+| "It took about a week to get the watering levels exactly where I wanted them because while you can water multiple plants at one time, there is only one siphon from your water source. So, you have to adjust the flow for each plant accordingly. Very easily done, it just takes a little tweaking." |          2. The user needs precise, easily adjustable controls to calibrate watering levels across multiple outputs. (latent) |
+| "The black tubing is nice as you don't really notice the watering system at a first glance."                                                                                                                                                                                                           |                            3. The user needs the system to blend into its environment and not be visually obtrusive. (latent) |
+| "The trick of pre-heating the tubing in hot water made installation go much more smoothly."                                                                                                                                                                                                            | 4. The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) |
+| "The app was easy to set up via Bluetooth. I did a one day schedule test though and it kicked off at the expected time."                                                                                                                                                                               |                                                                                             5. App is easy to use. (explicit) |
+| "Perfect for when I take my bonsai collection outdoors for the summer. Easy to set up, weatherproof, Wi-Fi connectivity, control with one’s phone."                                                                                                                                                    |                        6. The device needs to be relocatable as plants move between indoor and outdoor environments. (latent) |
+| "I purchased a separate 7 gallon container and hoping to be able to keep my plants alive during long stretches while I’m out of town."                                                                                                                                                                 |                                         7. Product may not be suitable to leave for long periods of time unattended. (latent) |
+
+
+| **Voice of the Customer**                                                                                                     |                                                                                                                **Restated Customer Need** |
+| :---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------: |
+| "My thumbs just felt pain trying to slide the tubing over the T connectors… this was a painful process."                      |                           1. The user needs a way to attach tubing to connectors without excessive physical force or discomfort. (latent) |
+| "It must use outdated technology, 2.4 GHz Wi-Fi rather than 5 GHz… I must send the product back."                             |                            2. The device needs to be compatible with 5 GHz Wi-Fi networks commonly found in modern households. (explicit) |
+| "There is no ‘Water Shortage Remind’ as advertised… it just turns on for X-time… no monitoring."                              |                                     3. The user needs real-time alerts or fail-safe behaviors when water supply is insufficient. (latent) |
+| "Product pictures show a 5 day watering cycle as an example, but I can’t find a way in the app… 4 days max."                  | 4. The user needs the ability to customize watering intervals beyond 4 days, including support for longer cycles like 5+ days. (explicit) |
+| "It works for 1–4 days for no less than 1 minute… but I need shorter."                                                        |                                     5. The user needs the ability to set watering durations shorter than one minute when needed. (latent) |
+| "The tubing attachment to the unit and to the drip terminal… slip off during watering, flooding the plants."                  |                                                        6. The tubing needs to be able to withstand the pressure from the pump. (explicit) |
+| "All the plants receive water when you schedule, independently of their individual needs."                                    |         7. The user needs to schedule watering times and frequencies for individual plants based on their unique requirements. (explicit) |
+| "Connection with the network is very poor. Either will not connect or it will drop the connection after a couple of minutes." |                                                                          8. Product may not be disability friendly to all users. (latent) |
+| "The backflow valve leaked… I had to disconnect it."                                                                          |                                                                                        9. Device needs secure non leaking hoses. (latent) |
+| "I wish the app was integrated with Alexa."                                                                                   |                                                                          10. The user needs integration with smart home systems. (latent) |
+| "I need to be alerted if the system fails to execute a scheduled watering."                                                   |                                            11. The user needs to be alerted if the device fails to execute a scheduled watering. (latent) |
+
+
+
 ####Positive Comments
  | **Voice of the Customer**                                             | **Restated Customer Need**                                    |
  |:----------------------------------------------------------------------|--------------------------------------------------------------:|
    "  If I was using soil instead of DWC, the proper amount to water is even easier to determine."    |1. The device is versatile in growing media types. (explicit)  |
 " Setup was straightforward, and programming the digital timer was easy "      |2. System is easy to use. (explicit)                              |
-" t took about a week to get the watering levels exactly where I wanted them because while you can water multiple plants at one time, there is only one siphon from your water source"  |3. The user needs precise, easily adjustable controls to calibrate watering levels across multiple outputs. (latent)             |
-                    | 
- |                                                               |
+" It took about a week to get the watering levels exactly where I wanted them because while you can water multiple plants at one time, there is only one siphon from your water source"  |3. The user needs precise, easily adjustable controls to calibrate watering levels across multiple outputs. (latent)             |
 
+ |                                                               |
+####Negative Comments
+ | **Voice of the Customer**                                             | **Restated Customer Need**                                    |
+ |:----------------------------------------------------------------------|--------------------------------------------------------------:|
+   "Total game-changer for plant parents! This smart watering system    |1. The system needs to reliably  water the plants. (explicit)  |
+ has been a lifesaver for my 20 plants. The programmable timer and      |2. App is easy to use. (explicit)                              |
+ Alexa compatibility make it super easy to use. No more overwatering    |3. System is intuitive to understand. (latent)                 |
+ or  underwatering my plants are thriving! The setup was a breeze, and  |4. Keeps plants at proper water level. ()                      | 
+ the system's reliability gives me peace of mind. Highly recommend!"    |                                                               |
+ |                                                                       |                                                               |
 " I am using the Letpot watering device in a deep water culture (DWC) grow room. It took about a week to get the watering levels exactly where I wanted them because while you can water multiple plants at one time, there is only one siphon from your water source. So, you have to adjust the flow for each plant accordingly. Very easily done, it just takes a little tweaking. If I was using soil instead of DWC, the proper amount to water is even easier to determine. Great little product that makes my gardening life MUCH easier."
 
-                                                                                                                            ##Search #1
+
 
 **Keywords:** "automatic plant waterer"
 
@@ -174,6 +209,17 @@ Vendor: Amazon
 [Smart Automatic Plant Watering System Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
 
 ####Positive Comments
+ | **Voice of the Customer**                                             | **Restated Customer Need**                                    |
+ |:----------------------------------------------------------------------|--------------------------------------------------------------:|
+   "Total game-changer for plant parents! This smart watering system    |1. The system needs to reliably  water the plants. (explicit)  |
+ has been a lifesaver for my 20 plants. The programmable timer and      |2. App is easy to use. (explicit)                              |
+ Alexa compatibility make it super easy to use. No more overwatering    |3. System is intuitive to understand. (latent)                 |
+ or  underwatering my plants are thriving! The setup was a breeze, and  |4. Keeps plants at proper water level. ()                      | 
+ the system's reliability gives me peace of mind. Highly recommend!"    |                                                               |
+ |                                                                       |                                                               |
+
+
+ ####Negative Comments
  | **Voice of the Customer**                                             | **Restated Customer Need**                                    |
  |:----------------------------------------------------------------------|--------------------------------------------------------------:|
    "Total game-changer for plant parents! This smart watering system    |1. The system needs to reliably  water the plants. (explicit)  |
