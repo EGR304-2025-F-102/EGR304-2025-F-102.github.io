@@ -242,6 +242,33 @@ Positive Comments
 | "Lots of Tubing to Manage: With many plants, you will inevitably have a lot of thin black tubing running around. Finding ways to route it so it looks neat and tidy takes some effort and planning." | 2. The user needs tubing that is easier to install and route. (explicit) |
 | "Skip: If you're looking for a truly "smart" system that uses soil moisture sensors to determine when to water." | 3. System is not a true smart waterer only timer based. (latent) |
 
+**Keywords:** "automatic irrigation system"
+
+**Search Results Link:**[https://www.amazon.com/s?k=automatic+irrigation+system&crid=22LM2F93T4F5Y&sprefix=automatic+irrig%2Caps%2C222&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_2_15](https://www.amazon.com/s?k=automatic+irrigation+system&crid=22LM2F93T4F5Y&sprefix=automatic+irrig%2Caps%2C222&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_2_15);
+
+##Selected Products
+
+###1. [Breeze Touch 50FT Automatic Solar Drip Irrigation System, Drip Irrigation Kit with 12 Timing Modes, Supported 15 Pots, Indoor/Outdoor Irrigation System for Garden, Balcony & Patio Watering System](https://a.co/d/1hwOo1y)
+
+
+[Raddy WS-1 Drip Irrigation Kit Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
+
+Positive Comments
+| **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------: |
+| "This drip irrigation system has almost everything you need to set up automatic watering of pot plants. "                                                                                                                                 |                                                    1. The device is easy to set up and use. (explicit) |
+| "
+I am impressed with how easy it is to set the watering system up. The control console has two mounting holes for mounting to a wall with screws (which are included)."                                                                                                                                            |                2. The system has mounting options included. (Explicit) |
+| " The solar panel has several mounting options that allow you to mount it to a wall or on a stake "  | 3. Solar panel has mounting option aswell (explicit) |
+| "There is a generous amount of irrigation tubing provided, and it was easy to cut to custom lengths for my pot plants."          |                            4. There is plenty of material provided (explicit) |"                                                                                                         |                                      
+#### Negative Comments
+| **Voice of the Customer** | **Restated Customer Need** |
+|----------------------------|----------------------------|
+| "took a while to set up/ depending what type of setup" | 1. System was hard to setup (explicit) |
+| "Can not get it to work.." | 2. The user was not able to get system working (explicit) |
+| "My one concern is how well it will work indoors during the winter, since we're located in MN and get a lot less sun and there will be a window involved." | 3. System has not been tested in colder weathers. (latent) |
+
+
 
 ####User Needs Table
 add description of how we got to this order here
