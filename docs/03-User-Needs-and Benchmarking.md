@@ -259,7 +259,7 @@ Price: $26.99
 
 After gathering the user needs statements from these customer's who voiced their needs in regard to these products we started to group them.
 
-![random locations of user needs](UngroupedChaosUserNeeds)
+![Image of user needs spread out](UngroupedChaosUserNeeds.jpg)
 
 In order to fully get the groups flushed out we decided to keep a focus on items that were relatively close to each other. That being said there were a few groups that stuck out:
 
