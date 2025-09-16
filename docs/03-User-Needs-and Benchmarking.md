@@ -195,7 +195,7 @@ Vendor: Amazon
 | "Two years from now when that battery fails most users will be sitting on e-waste tech." | 5. The user needs a sustainable design that allows failed components to be replaced. (latent) |
 | "If the solar panel ever fails… you’d need to remove the battery, wipe all your presets, charge the battery, then put all the presets back in." | 6. The user needs a built-in reset or recovery mode for diagnostics without full disassembly. (latent) |
 
-## Search #5
+## Search #4
 
 **Keywords:** "automatic plant watering system"
 
@@ -255,6 +255,52 @@ Price: $26.99
 | "Can not get it to work.." | 2. The user was not able to get system working (explicit) |
 | "My one concern is how well it will work indoors during the winter, since we're located in MN and get a lot less sun and there will be a window involved." | 3. System has not been tested in colder weathers. (latent) |
 
+## Process
+
+After gathering the user needs statements from these customer's who voiced their needs in regard to these products we started to group them.
+
+![random locations of user needs](UngroupedChaosUserNeeds)
+
+In order to fully get the groups flushed out we decided to keep a focus on items that were relatively close to each other. That being said there were a few groups that stuck out:
+
+- Device functional requirements.
+- Watering system and pump features.
+- User interface and control.
+- Alerts and monitoring
+- Tubing, hoses, and water delivery hardware
+- Power and energy
+- Setup and Assembly
+- Environmental and physical conditions
+- Design and Aesthetics
+- Water quality and filtration
+- Parts that don't match other conditions so Miscellaneous
+
+![Image with groups for user needs](GroupingsUserNeeds.jpg)
+
+Next we needed to rank the requirements. For the groups we had 4 deciding factors:
+ - Critical to core functionality
+ - User impact and usability
+ - Technical feasibility
+ - Risk and Safety concerns
+
+ Once the groups were organized we were able to focus on ranking the needs themselves. Since their groups were a product of their similarities we decided that it should stay similar for their rankings.
+
+ - Direct impact on system reliability and core performance
+    > Ensure the system works, water delivery is consistent, and critical alerts are in place. 
+ - User safety and failure prevention
+    > Alerts for low water or power, leak prevention and system failure points.
+ - User Control and customization flexibility 
+    > Features allowing users to customize their watering schedules and control work flows.
+ - Ease of use and accessibility
+    > Items that reduce complexity, improve setup, or simplify operations.
+ - Environmental durability
+    > Ability to withstand heat, cold, and physical relocation.
+ - Convenience
+    > Ease of installation and aesthetic decisions
+ - Redundancies and backups
+    > Backup's in case of weaker main systems. 
+
+    Finally we had the end result of the ranked tables which can be found below in order of the deemed most important needs to less important needs. 
 
 
 #### User Needs Table
