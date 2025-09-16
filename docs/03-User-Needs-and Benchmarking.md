@@ -140,7 +140,7 @@ This solar drip irrigation system sounded great, but it didn’t meet my expecta
 
 ### 1. [LetPot Automatic Watering System for Potted Plants, Drip Irrigation Kit System, Smart Plant Watering Devices for Indoor Outdoor, Water Shortage Remind, IPX66](https://a.co/d/0hPzhiT)
 
-[LetPot Automatic Watering System Amazon Picture](c:\Users\austi\Downloads\LetPotAutomaticWateringSystem.jpg)
+[LetPot Automatic Watering System Amazon Picture](docs\image\LetPotAutomaticWateringSystem.jpg)
 
 Price: $62.99
 
