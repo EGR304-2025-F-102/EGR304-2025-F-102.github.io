@@ -27,7 +27,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is (to be determined after getting our final member to respond.)
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication will be through a texting group chat and in person meetings. 
  
 ## Communication Procedures
 
@@ -65,7 +65,6 @@ _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| David Cannon | D |
 | Jacob Dirks | J |
 | Austin Gonzalez | A |
 | Terry Williams | T |
@@ -99,7 +98,6 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Name**  | **Role**             |
 |:----------|:---------------------|
-| David Cannon|      Currently unreachable         |
 |Jacob Dirks|  Assignment Leader   |
 |Austin Gonzalez|Meeting Leader    |
 |Terry Williams|Meeting Recorder|
