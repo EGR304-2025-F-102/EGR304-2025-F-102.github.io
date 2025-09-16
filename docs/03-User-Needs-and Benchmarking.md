@@ -215,6 +215,33 @@ Vendor: Amazon
 | "Two years from now when that battery fails most users will be sitting on e-waste tech." | 5. The user needs a sustainable design that allows failed components to be replaced. (latent) |
 | "If the solar panel ever fails… you’d need to remove the battery, wipe all your presets, charge the battery, then put all the presets back in." | 6. The user needs a built-in reset or recovery mode for diagnostics without full disassembly. (latent) |
 
+Search #5
+
+**Keywords:** "automatic plant watering system"
+
+**Search Results Link:**[https://www.amazon.com/s?k=automatic+watering+system&crid=ZUU5XN5FJMNL&sprefix=automatic+watering+system%2Caps%2C293&ref=nb_sb_noss_1](https://www.amazon.com/s?k=automatic+watering+system&crid=ZUU5XN5FJMNL&sprefix=automatic+watering+system%2Caps%2C293&ref=nb_sb_noss_1);
+
+##Selected Products
+
+###1. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer](https://a.co/d/1hwOo1y)
+
+
+[Raddy WS-1 Drip Irrigation Kit Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
+
+Positive Comments
+| **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------: |
+| "The need for an open bucket of water was a non-starter for me due to my curious cats and the clunky look of a bucket sitting in my living room."                                                                                                                                 |                                                    1. The device needs to have a closed water source. (explicit) |
+| "I decided to give this dual-pump system a try, hoping it would offer a better solution for an upcoming vacation"                                                                                                                                            |                2. The pump needs to be reliable when user is away. (Latent) |
+| " I can run the intake tubes directly into large, sealed water jugs"  |                                3. The user needs tubes to be directly connected to water jugs. (explicit) |
+| "Powerful and Consistent: The pumps seem strong enough to push water consistently to all the plant locations I've set up."          |                            4. The user needs an water pumps to have emnough power to reach entire house. (explicit) |"                                                                                                         |                                      
+#### Negative Comments
+| **Voice of the Customer** | **Restated Customer Need** |
+|----------------------------|----------------------------|
+| "Still Timer-Based, Not Sensor-Based: My only wish for this type of system, in general, is that it would operate on soil moisture sensors instead of just a timer." | 1. System needs to be moisture based instead of timer based (explicit) |
+| "Lots of Tubing to Manage: With many plants, you will inevitably have a lot of thin black tubing running around. Finding ways to route it so it looks neat and tidy takes some effort and planning." | 2. The user needs tubing that is easier to install and route. (explicit) |
+| "Skip: If you're looking for a truly "smart" system that uses soil moisture sensors to determine when to water." | 3. System is not a true smart waterer only timer based. (latent) |
+
 
 ####User Needs Table
 add description of how we got to this order here
