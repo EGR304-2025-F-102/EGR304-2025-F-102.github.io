@@ -199,6 +199,10 @@ Vendor: Amazon
 
 **Keywords:** "automatic plant watering system"
 
+Vendor: Amazon
+
+Price: $35.09
+
 **Search Results Link:**[https://www.amazon.com/s?k=automatic+watering+system&crid=ZUU5XN5FJMNL&sprefix=automatic+watering+system%2Caps%2C293&ref=nb_sb_noss_1](https://www.amazon.com/s?k=automatic+watering+system&crid=ZUU5XN5FJMNL&sprefix=automatic+watering+system%2Caps%2C293&ref=nb_sb_noss_1);
 
 ##Selected Products
@@ -223,6 +227,10 @@ Vendor: Amazon
 | "Skip: If you're looking for a truly "smart" system that uses soil moisture sensors to determine when to water." | 3. System is not a true smart waterer only timer based. (latent) |
 
 **Keywords:** "automatic irrigation system"
+
+Vendor: Amazon
+
+Price: $26.99
 
 **Search Results Link:**[https://www.amazon.com/s?k=automatic+irrigation+system&crid=22LM2F93T4F5Y&sprefix=automatic+irrig%2Caps%2C222&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_2_15](https://www.amazon.com/s?k=automatic+irrigation+system&crid=22LM2F93T4F5Y&sprefix=automatic+irrig%2Caps%2C222&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_2_15);
 
