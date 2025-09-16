@@ -120,7 +120,7 @@ Vendor: Amazon
 
 ### 1. [LetPot Automatic Watering System for Potted Plants, Drip Irrigation Kit System, Smart Plant Watering Devices for Indoor Outdoor, Water Shortage Remind, IPX66](https://a.co/d/0hPzhiT)
 
-![LetPot Automatic Watering System Amazon Picture](docs\image\LetPotAutomaticWateringSystem.jpg)
+![LetPot Automatic Watering System Amazon Picture](LetPotAutoWateringSysforPottedPlants.jpg)
 
 Price: $62.99
 
@@ -163,7 +163,7 @@ Vendor: Amazon
 ###1. [Raddy WS-1 Drip Irrigation Kit, 5W Solar Powered Automatic Watering System, Easy DIY Water Timer for Plants on The Balcony, Gardens, and Green House, Supported 15 Pots](https://a.co/d/1hwOo1y)
 
 
-![Raddy WS-1 Drip Irrigation Kit Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
+![Raddy WS-1 Drip Irrigation Kit Amazon Picture](RaddyWS1DripIrrigationKit.png)
 
 ####Positive Comments
 | **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
@@ -203,10 +203,10 @@ Search #5
 
 ##Selected Products
 
-###1. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer](https://a.co/d/1hwOo1y)
+###1. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer](https://a.co/d/1iT5VUf)
 
 
-![Raddy WS-1 Drip Irrigation Kit Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
+![Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants](DualPumpAutoPlantWaterIndor.jpg)
 
 Positive Comments
 | **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
@@ -228,10 +228,10 @@ Positive Comments
 
 ##Selected Products
 
-###1. [Breeze Touch 50FT Automatic Solar Drip Irrigation System, Drip Irrigation Kit with 12 Timing Modes, Supported 15 Pots, Indoor/Outdoor Irrigation System for Garden, Balcony & Patio Watering System](https://a.co/d/1hwOo1y)
+###1. [Breeze Touch 50FT Automatic Solar Drip Irrigation System, Drip Irrigation Kit with 12 Timing Modes, Supported 15 Pots, Indoor/Outdoor Irrigation System for Garden, Balcony & Patio Watering System](https://a.co/d/bZ1iJA2)
 
 
-![Raddy WS-1 Drip Irrigation Kit Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
+![Breeze Touch 50FT Automatic Solar Drip Irrigation System](BreezeTouch50ftAutoIrrigation.jpg)
 
 Positive Comments
 | **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
