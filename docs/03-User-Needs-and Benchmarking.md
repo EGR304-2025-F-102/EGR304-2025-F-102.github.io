@@ -142,7 +142,7 @@ This solar drip irrigation system sounded great, but it didn’t meet my expecta
 ](https://a.co/d/0hPzhiT);
 
 
-[Dual Pump Automatic Watering System Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
+[LetPot Automatic Watering System Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
 
 Price: $62.99
 
@@ -185,7 +185,7 @@ Vendor: Amazon
 ###1. [Raddy WS-1 Drip Irrigation Kit, 5W Solar Powered Automatic Watering System, Easy DIY Water Timer for Plants on The Balcony, Gardens, and Green House, Supported 15 Pots](https://a.co/d/1hwOo1y)
 
 
-[Smart Automatic Plant Watering System Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
+[Raddy WS-1 Drip Irrigation Kit Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
 
 ####Positive Comments
 | **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
@@ -219,6 +219,7 @@ Vendor: Amazon
 
 
 ####User Needs Table
+add description of how we got to this order here
 ##Device Requirements Tables
 | Requirement                                                                                        | Type        |
 | -------------------------------------------------------------------------------------------------- | ----------- |
