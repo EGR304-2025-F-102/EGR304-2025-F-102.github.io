@@ -14,18 +14,20 @@ This project aims to investigate and develop smart plant irrigation technologies
 
 ## Stakeholders <!-- terry -->
 
-- **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-- **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-- **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-- **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+- **Target User** People with the intention of caring for and nuturing plant life, and in need of a system that can reliably  distribute water to plant life.
+- **Target purchaser** Target purchasers include people who want an irrigation system with the ability to keep track and account for all variables, such as tracking ph levels, and filtering solvents.
+- **Customer service** Prefers easy-to-repair and easy to understand watering system. Easy to answer questions about ph sensor and filter. 
+- **Marketing & Sales division** Looks for selling points around system functions such as ph level sensor and and solvent filter. 
+- **Retailers** Prefer products that can be easily stored and keep tracked of. Irrigation system can be store in one container for one product. 
 
 
 ## Use Cases <!-- jacob and terry -->
 
-**User Story #1: Jenna**
+**User Story #1: Mario**
+Mario has never own more than one plant at a time in his life. However know that his new appartment comes with lots of potted plants on the balconey he needs to keep them alive so he is not charged an extra fee by the owner. Mario is really busy between homework and job work so he does not have the time nor does he always remember his plants. With this new irrigation system Mario no longer needs to water every single plant regularly, instead he just needs to keep the water source full and let the irrigation system do the work. 
 
-
+Mario no longer has to worry about dying plants and getting charged extra from the landowner. He even uses water with proper ph levels, which he can now figure out from the sensor that is included in the system. His landowner is even impressed by how healthy the plants are. 
+<!-- done on this - Terry Williams-->
 <!--
 Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
 
