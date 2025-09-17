@@ -246,7 +246,7 @@ Price: $26.99
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------: |
 | "This drip irrigation system has almost everything you need to set up automatic watering of pot plants."| 1. The device is easy to set up and use. (explicit)| 
 |I am impressed with how easy it is to set the watering system up. The control console has two mounting holes for mounting to a wall with screws which are included "                              | 2. The system has mounting options included. (Explicit) |
-| " The solar panel has several mounting options that allow you to mount it to a wall or on a stake "  | 3. Solar panel has mounting option aswell (explicit) |
+| " The solar panel has several mounting options that allow you to mount it to a wall or on a stake "  | 3. Solar panel has mounting option as well (explicit) |
 | "There is a generous amount of irrigation tubing provided, and it was easy to cut to custom lengths for my pot plants."          |                            4. There is plenty of material provided (explicit) |"                                                                                           |                                                   
 #### Negative Comments
 | **Voice of the Customer** | **Restated Customer Need** |
