@@ -24,7 +24,7 @@ This project aims to investigate and develop smart plant irrigation technologies
 ## Use Cases <!-- jacob and terry -->
 
 **User Story #1: Mario**
-Mario has never own more than one plant at a time in his life. However know that his new appartment comes with lots of potted plants on the balconey he needs to keep them alive so he is not charged an extra fee by the owner. Mario is really busy between homework and job work so he does not have the time nor does he always remember his plants. With this new irrigation system Mario no longer needs to water every single plant regularly, instead he just needs to keep the water source full and let the irrigation system do the work. 
+Mario has never owned more than one plant at a time in his life. However, now that his new appartment comes with lots of potted plants on the balconey he needs to keep them alive so he is not charged an extra fee by the owner. Mario is really busy between homework and job work so he does not have the time nor does he always remember his plants exist. With this new irrigation system Mario no longer needs to water every single plant regularly, instead he just needs to keep the water source full and let the irrigation system do the work. 
 
 Mario no longer has to worry about dying plants and getting charged extra from the landowner. He even uses water with proper ph levels, which he can now figure out from the sensor that is included in the system. His landowner is even impressed by how healthy the plants are. 
 <!-- done on this - Terry Williams-->
@@ -58,13 +58,15 @@ The new product design will be based on that of the AirPods with improvements ba
       * 2.2 The product shall offer a scheduling option for plant watering. (P10)
       * 2.3 The product shall offer an attachment for soluble fertilizer (P10)
       
-3. **Manufacturing**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+3. **Manufacturing** <!-- Terry Williams -->
+      * 2.1 The product shall incorporatate different types of connectors for tubing includiting T - connecters, 90 degrees, and various others. (P10)
+      * 2.2 The product shall offer a filter for solvent . (P10)
+      * 2.3 The product shall offer a sensor for ph level and a form of attachment for the sensor. (P10)
 
-4. **Interactivity & User Experience**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+4. **Interactivity & User Experience** <!-- Terry Williams -->
+      * 2.1 The product shall incorporate User instructions on best spot to place ph sensor and instructions on filter replacement. (P10)
+      * 2.2 The product shall offer user manual on how to connect tubing to water source and recomendations on routing. (P10)
+      * 2.3 The product should ofer user friendly and easily programmable controller.
 
 5. **Safety**
       * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
