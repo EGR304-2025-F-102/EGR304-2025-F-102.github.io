@@ -28,6 +28,12 @@ Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow of
 
 Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
 
+**User Story #2: Barry**
+Barry is a 25-year-old student-worker who is irregularly at home between class and work schedules. Barry grew up in a house that had potted plants and loved the fresher air that came along with them. The again, he lives on his own and doesn't often remember to water them. With his new irrigation device he no longer has to worry about watering all his plants nightly or even biweekly. This frees up Barry to focus on his course work and professional development while enabling him to have healthy house plants. 
+
+Over school breaks Barry occasionally gets the time to go out for a vacation or to visit his parents for a week. Now instead of having one of his friends come water his plants and make a mess. He can relax in style knowing that they're having fun and his plants are thriving back at home. He even sometimes gets compliments about how healthy his plants look from his neighbor Susan. 
+<!-- this one is done - Jacob Dirks-->
+
 ## Aspects - 2 each
 
 The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
@@ -37,11 +43,11 @@ The new product design will be based on that of the AirPods with improvements ba
    * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
    * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
   
-1. **Software / Functionality**
+1. **Software / Functionality** <!-- Jacob Dirks -->
       * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
       * 2.2 The product shall offer a dual microphone in each earbud. (P10)
 
-1. **Customization**
+1. **Customization** <!-- Jacob Dirks -->
       * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
       * 2.2 The product shall offer a dual microphone in each earbud. (P10)
       
@@ -56,6 +62,8 @@ The new product design will be based on that of the AirPods with improvements ba
 1. **Safety**
       * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
       * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+
+
 ## Requirement Criteria Specifications - Austin
 
 * 1.1.1 - Regulate system power from 9 volts to 5 volts
