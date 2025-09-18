@@ -44,9 +44,9 @@ Over school breaks Barry occasionally gets the time to go out for a vacation or 
 The new product design will be based on existing related products with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Hardware / Product Design**
-   * 1.1 The product shall be compact enough to fit on a window sill. (P6)
-   * 1.2 The product shall be easy to service and refill. (P8)
-   * 1.3 The product shall avoid sharp edges and shatter-prone materials. (P7)
+      * 1.1 The product shall be compact enough to fit on a window sill. (P6)
+      * 1.2 The product shall be easy to service and refill. (P8)
+      * 1.3 The product shall avoid sharp edges and shatter-prone materials. (P7)
   
 2. **Software / Functionality** <!-- Jacob Dirks -->
       * 2.1 The product shall incorporate three or more consistent drip irrigation nozzles. (P10)
