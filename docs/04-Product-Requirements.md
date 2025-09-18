@@ -41,44 +41,64 @@ Over school breaks Barry occasionally gets the time to go out for a vacation or 
 
 ## Aspects <!-- 2 each -->
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+The new product design will be based on existing related products with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Hardware / Product Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
+   * 1.1 The product shall be compact enough to fit on a window sill. (P6)
+   * 1.2 The product shall be easy to service and refill. (P8)
+   * 1.3 The product shall avoid sharp edges and shatter-prone materials. (P7)
   
-1. **Software / Functionality** <!-- Jacob Dirks -->
+2. **Software / Functionality** <!-- Jacob Dirks -->
       * 2.1 The product shall incorporate three or more consistent drip irrigation nozzles. (P10)
       * 2.2 The product shall incorporate two or more LED based alerts for user comprehension(P10)
       * 2.3 The product shall offer one or more pH sensors. (P9)
 
-2. **Customization** <!-- Jacob Dirks -->
-      * 2.1 The product shall incorporate one or more lead splits for added plants. (P10)
-      * 2.2 The product shall offer a scheduling option for plant watering. (P10)
-      * 2.3 The product shall offer an attachment for soluble fertilizer (P10)
+3. **Customization** <!-- Jacob Dirks -->
+      * 3.1 The product shall incorporate one or more lead splits for added plants. (P10)
+      * 3.2 The product shall offer a scheduling option for plant watering. (P10)
+      * 3.3 The product shall offer an attachment for soluble fertilizer (P10)
       
-3. **Manufacturing** <!-- Terry Williams -->
-      * 2.1 The product shall incorporatate different types of connectors for tubing includiting T - connecters, 90 degrees, and various others. (P10)
-      * 2.2 The product shall offer a filter for solvent . (P10)
-      * 2.3 The product shall offer a sensor for ph level and a form of attachment for the sensor. (P10)
+4. **Manufacturing** <!-- Terry Williams -->
+      * 4.1 The product shall incorporatate different types of connectors for tubing includiting T - connecters, 90 degrees, and various others. (P10)
+      * 4.2 The product shall offer a filter for solvent . (P10)
+      * 4.3 The product shall offer a sensor for ph level and a form of attachment for the sensor. (P10)
 
-4. **Interactivity & User Experience** <!-- Terry Williams -->
-      * 2.1 The product shall incorporate User instructions on best spot to place ph sensor and instructions on filter replacement. (P10)
-      * 2.2 The product shall offer user manual on how to connect tubing to water source and recomendations on routing. (P10)
-      * 2.3 The product should ofer user friendly and easily programmable controller.
+5. **Interactivity & User Experience** <!-- Terry Williams -->
+      * 5.1 The product shall incorporate User instructions on best spot to place ph sensor and instructions on filter replacement. (P10)
+      * 5.2 The product shall offer user manual on how to connect tubing to water source and recomendations on routing. (P10)
+      * 5.3 The product should ofer user friendly and easily programmable controller.
 
-5. **Safety**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
-
+6. **Safety**
+      * 6.1 The product shall be able to wiststand splashes of water . (P10)
+      * 6.2 The product shall have a sturdy base to prevent spilling while filling or pet interferance. (P7)
+      * 6.3 The product shall have no exposed gears or impellers in its design. (P9)
+     
 
 ## Requirement Criteria Specifications <!-- Austin -->
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+* 1.1.1 - Ensure the footprint is no larger than 150mm X 400MM 
+* 1.1.2 - Reservoir refill openingshould be larger than 40 mm diameter, require no tools for removal and should not take longer than 2 minutes to refill. 
+* 1.1.3 - All external edges rounded to radius ≥ 1.5 mm; use of impact-resistant plastics and no glass components.
+* 2.2.1 - Each nozzle delivers 50–150 mL/min within ±10% flow rate variation.
+* 2.2.2 - One LED for low water level (triggered at ≤20% tank volume), one LED for system fault; visible at 6ft in daylight.
+* 2.2.3 - pH measurement range 4.0–9.0 with ±0.2 accuracy.
+* 3.3.1 - Tubing manifold supports over 4 plant outlets with no pressure drop exceeding 15%.
+* 3.3.2 - Programmable timer with adjustable intervals (4 h – 72 h)
+* 3.3.3 - Fertilizer cartridge capacity ≥ 50 mL with a dosing accuracy within ±10%.
+* 4.4.1 - Tubing connectors must accept 4 mm ID tubing.
+* 4.4.2 - Filter mesh that should replaceable within ≤ 5 minutes.
+* 4.4.3 - Mount provides watertight seal (IPX4) and a sensor removable without tools.
+* 5.5.1 - Printed guide included, sensor placement accuracy within ±10 mm of recommended depth.
+* 5.5.2 - Manual includes at least 3 routing diagrams; connection steps ≤ 5; illustrations with ≥ 90% user comprehension in pilot test.
+* 5.5.3 - Controller interface allows scheduling in ≤ 5 steps.
+* 6.6.1 - Pass IPX4 standardized test.
+* 6.6.2 - Base resists tipping under 10 N side force and remains upright on 10° inclined surface.
+* 6.6.3 - All moving parts enclosed behind ≥ 1.5 mm plastic barrier.
 
 ## Open Questions <!-- Austin -->
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* Can we have our product be compatible with any water container size? 
+* Can we create aprodcut that blenmds into the home enviorment?
+* Can we ensure that our PH sensors wont come out of specification. 
+* Can we ensure replacement parts are included incase of hard water build up. 
+
