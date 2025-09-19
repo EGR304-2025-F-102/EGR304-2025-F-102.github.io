@@ -16,17 +16,16 @@ This project aims to investigate and develop smart plant irrigation technologies
 
 - **Target User** People with the intention of caring for and nuturing plant life, and in need of a system that can reliably  distribute water to plant life.
 - **Target purchaser** Target purchasers include people who want an irrigation system with the ability to keep track and account for all variables, such as tracking ph levels, and filtering solvents.
-- **Customer service** Prefers easy-to-repair and easy to understand watering system. Easy to answer questions about ph sensor and filter. 
-- **Marketing & Sales division** Looks for selling points around system functions such as ph level sensor and and solvent filter. 
-- **Retailers** Prefer products that can be easily stored and keep tracked of. Irrigation system can be store in one container for one product. 
-
+- **Customer service** Prefers easy-to-repair and easy to understand watering system. Easy to answer questions about ph sensor and filter.
+- **Marketing & Sales division** Looks for selling points around system functions such as ph level sensor and and solvent filter.
+- **Retailers** Prefer products that can be easily stored and keep tracked of. Irrigation system can be store in one container for one product.
 
 ## Use Cases <!-- jacob and terry -->
 
 **User Story #1: Mario**
-Mario has never owned more than one plant at a time in his life. However, now that his new appartment comes with lots of potted plants on the balconey he needs to keep them alive so he is not charged an extra fee by the owner. Mario is really busy between homework and job work so he does not have the time nor does he always remember his plants exist. With this new irrigation system Mario no longer needs to water every single plant regularly, instead he just needs to keep the water source full and let the irrigation system do the work. 
+Mario has never owned more than one plant at a time in his life. However, now that his new apartment comes with lots of potted plants on the balcony he needs to keep them alive so he is not charged an extra fee by the owner. Mario is really busy between homework and job work so he does not have the time nor does he always remember his plants exist. With this new irrigation system Mario no longer needs to water every single plant regularly, instead he just needs to keep the water source full and let the irrigation system do the work.
 
-Mario no longer has to worry about dying plants and getting charged extra from the landowner. He even uses water with proper ph levels, which he can now figure out from the sensor that is included in the system. His landowner is even impressed by how healthy the plants are. 
+Mario no longer has to worry about dying plants and getting charged extra from the landowner. He even uses water with proper ph levels, which he can now figure out from the sensor that is included in the system. His landowner is even impressed by how healthy the plants are.
 <!-- done on this - Terry Williams-->
 <!--
 Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
@@ -34,9 +33,9 @@ Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow of
 Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.-->
 
 **User Story #2: Barry**
-Barry is a 25-year-old student-worker who is irregularly at home between class and work schedules. Barry grew up in a house that had potted plants and loved the fresher air that came along with them. The again, he lives on his own and doesn't often remember to water them. With his new irrigation device he no longer has to worry about watering all his plants nightly or even biweekly. This frees up Barry to focus on his course work and professional development while enabling him to have healthy house plants. 
+Barry is a 25-year-old student-worker who is irregularly at home between class and work schedules. Barry grew up in a house that had potted plants and loved the fresher air that came along with them. The again, he lives on his own and doesn't often remember to water them. With his new irrigation device he no longer has to worry about watering all his plants nightly or even biweekly. This frees up Barry to focus on his course work and professional development while enabling him to have healthy house plants.
 
-Over school breaks Barry occasionally gets the time to go out for a vacation or to visit his parents for a week. Now instead of having one of his friends come water his plants and make a mess. He can relax in style knowing that they're having fun and his plants are thriving back at home. He even sometimes gets compliments about how healthy his plants look from his neighbor Susan. 
+Over school breaks Barry occasionally gets the time to go out for a vacation or to visit his parents for a week. Now instead of having one of his friends come water his plants and make a mess. He can relax in style knowing that they're having fun and his plants are thriving back at home. He even sometimes gets compliments about how healthy his plants look from his neighbor Susan.
 <!-- this one is done - Jacob Dirks-->
 
 ## Aspects <!-- 2 each -->
@@ -44,61 +43,60 @@ Over school breaks Barry occasionally gets the time to go out for a vacation or 
 The new product design will be based on existing related products with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Hardware / Product Design**
-      * 1.1 The product shall be compact enough to fit on a window sill. (P6)
-      * 1.2 The product shall be easy to service and refill. (P8)
-      * 1.3 The product shall avoid sharp edges and shatter-prone materials. (P7)
+      - 1.1 The product shall be compact enough to fit on a window sill. (P6)
+      - 1.2 The product shall be easy to service and refill. (P8)
+      - 1.3 The product shall avoid sharp edges and shatter-prone materials. (P7)
   
 2. **Software / Functionality** <!-- Jacob Dirks -->
-      * 2.1 The product shall incorporate three or more consistent drip irrigation nozzles. (P10)
-      * 2.2 The product shall incorporate two or more LED based alerts for user comprehension(P10)
-      * 2.3 The product shall offer one or more pH sensors. (P9)
+      - 2.1 The product shall incorporate three or more consistent drip irrigation nozzles. (P10)
+      - 2.2 The product shall incorporate two or more LED based alerts for user comprehension(P10)
+      - 2.3 The product shall offer one or more pH sensors. (P9)
 
 3. **Customization** <!-- Jacob Dirks -->
-      * 3.1 The product shall incorporate one or more lead splits for added plants. (P10)
-      * 3.2 The product shall offer a scheduling option for plant watering. (P10)
-      * 3.3 The product shall offer an attachment for soluble fertilizer (P10)
-      
+      - 3.1 The product shall incorporate one or more lead splits for added plants. (P10)
+      - 3.2 The product shall offer a scheduling option for plant watering. (P10)
+      - 3.3 The product shall offer an attachment for soluble fertilizer (P10)
+  
 4. **Manufacturing** <!-- Terry Williams -->
-      * 4.1 The product shall incorporatate different types of connectors for tubing includiting T - connecters, 90 degrees, and various others. (P10)
-      * 4.2 The product shall offer a filter for solvent . (P10)
-      * 4.3 The product shall offer a sensor for ph level and a form of attachment for the sensor. (P10)
+      - 4.1 The product shall incorporate different types of connectors for tubing including T - connecters, 90 degrees, and various others. (P10)
+      - 4.2 The product shall offer a filter for solvent . (P10)
+      - 4.3 The product shall offer a sensor for ph level and a form of attachment for the sensor. (P10)
 
 5. **Interactivity & User Experience** <!-- Terry Williams -->
-      * 5.1 The product shall incorporate User instructions on best spot to place ph sensor and instructions on filter replacement. (P10)
-      * 5.2 The product shall offer user manual on how to connect tubing to water source and recomendations on routing. (P10)
-      * 5.3 The product should ofer user friendly and easily programmable controller.
+      - 5.1 The product shall incorporate User instructions on best spot to place ph sensor and instructions on filter replacement. (P10)
+      - 5.2 The product shall offer user manual on how to connect tubing to water source and recommendations on routing. (P10)
+      - 5.3 The product should offer user friendly and easily programmable controller.
 
 6. **Safety**
-      * 6.1 The product shall be able to wiststand splashes of water . (P10)
-      * 6.2 The product shall have a sturdy base to prevent spilling while filling or pet interferance. (P7)
-      * 6.3 The product shall have no exposed gears or impellers in its design. (P9)
-     
-
+      - 6.1 The product shall be able to withstand splashes of water (IPX4). (P10)
+      - 6.2 The product shall have a sturdy base to prevent spilling while filling or pet interference. (P7)
+      - 6.3 The product shall have no exposed gears or impellers in its design. (P9)
+  
 ## Requirement Criteria Specifications <!-- Austin -->
 
-* 1.1.1 - Ensure the footprint is no larger than 150mm X 400MM 
-* 1.1.2 - Reservoir refill openingshould be larger than 40 mm diameter, require no tools for removal and should not take longer than 2 minutes to refill. 
-* 1.1.3 - All external edges rounded to radius ≥ 1.5 mm; use of impact-resistant plastics and no glass components.
-* 2.2.1 - Each nozzle delivers 50–150 mL/min within ±10% flow rate variation.
-* 2.2.2 - One LED for low water level (triggered at ≤20% tank volume), one LED for system fault; visible at 6ft in daylight.
-* 2.2.3 - pH measurement range 4.0–9.0 with ±0.2 accuracy.
-* 3.3.1 - Tubing manifold supports over 4 plant outlets with no pressure drop exceeding 15%.
-* 3.3.2 - Programmable timer with adjustable intervals (4 h – 72 h)
-* 3.3.3 - Fertilizer cartridge capacity ≥ 50 mL with a dosing accuracy within ±10%.
-* 4.4.1 - Tubing connectors must accept 4 mm ID tubing.
-* 4.4.2 - Filter mesh that should replaceable within ≤ 5 minutes.
-* 4.4.3 - Mount provides watertight seal (IPX4) and a sensor removable without tools.
-* 5.5.1 - Printed guide included, sensor placement accuracy within ±10 mm of recommended depth.
-* 5.5.2 - Manual includes at least 3 routing diagrams; connection steps ≤ 5; illustrations with ≥ 90% user comprehension in pilot test.
-* 5.5.3 - Controller interface allows scheduling in ≤ 5 steps.
-* 6.6.1 - Pass IPX4 standardized test.
-* 6.6.2 - Base resists tipping under 10 N side force and remains upright on 10° inclined surface.
-* 6.6.3 - All moving parts enclosed behind ≥ 1.5 mm plastic barrier.
+- 1.1.1 - Ensure the footprint is no larger than 150mm X 400MM.
+- 1.1.2 - Reservoir refill opening should be larger than 40 mm diameter, require no tools for removal and should not take longer than 2 minutes to refill.
+- 1.1.3 - All external edges rounded to radius ≥ 1.5 mm; use of impact-resistant plastics and no glass components.
+- 2.2.1 - Each nozzle delivers 50–150 mL/min within ±10% flow rate variation.
+- 2.2.2 - One LED for low water level (triggered at ≤20% tank volume), one LED for system fault; visible at 6ft in daylight.
+- 2.2.3 - pH measurement range 4.0–9.0 with ±0.2 accuracy.
+- 3.3.1 - Tubing manifold supports over 4 plant outlets with no pressure drop exceeding 15%.
+- 3.3.2 - Programmable timer with adjustable intervals (4 h – 72 h).
+- 3.3.3 - Fertilizer cartridge capacity ≥ 50 mL with a dosing accuracy within ±10%.
+- 4.4.1 - Tubing connectors must accept 4 mm ID tubing.
+- 4.4.2 - Filter mesh that should replaceable within ≤ 5 minutes.
+- 4.4.3 - Mount provides watertight seal (IPX4) and a sensor removable without tools.
+- 5.5.1 - Printed guide included, sensor placement accuracy within ±10 mm of recommended depth.
+- 5.5.2 - Manual includes at least 3 routing diagrams; connection steps ≤ 5; illustrations with ≥ 90% user comprehension in pilot test.
+- 5.5.3 - Controller interface allows scheduling in ≤ 5 steps.
+- 6.6.1 - Pass IPX4 standardized test.
+- 6.6.2 - Base resists tipping under 10 N side force and remains upright on 10° inclined surface.
+- 6.6.3 - All moving parts enclosed behind ≥ 1.5 mm plastic barrier.
 
 ## Open Questions <!-- Austin -->
 
-* Can we have our product be compatible with any water container size? 
-* Can we create aprodcut that blenmds into the home enviorment?
-* Can we ensure that our PH sensors wont come out of specification. 
-* Can we ensure replacement parts are included incase of hard water build up. 
+- Can we have our product be compatible with any water container size?
+- Can we create a product that blends into the home environment?
+- Can we ensure that our PH sensors wont come out of specification.
+- Can we ensure replacement parts are included in case of hard water build up.
 
