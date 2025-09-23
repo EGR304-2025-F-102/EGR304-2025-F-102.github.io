@@ -99,4 +99,3 @@ The new product design will be based on existing related products with improveme
 - Can we create a product that blends into the home environment?
 - Can we ensure that our PH sensors wont come out of specification.
 - Can we ensure replacement parts are included in case of hard water build up.
-

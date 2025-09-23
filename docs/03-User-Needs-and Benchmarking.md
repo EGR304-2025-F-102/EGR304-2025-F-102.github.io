@@ -21,7 +21,6 @@ cur, aut in adhuc crimina **habebat**: pro.-->
 - Numerous positive ratings
 - Numerous negative ratings
 - Designed for increasing the lifespan of plants
-- 
 
 <!-- Below is a template for each element
 ##Search #1
@@ -57,46 +56,43 @@ cur, aut in adhuc crimina **habebat**: pro.-->
 
 **Search Results Link:**[https://www.amazon.com/s?k=automatic+water+for+plants&crid=2ORM7UKIQ0AZQ&sprefix=automatic+water+for+plant%2Caps%2C163&ref=nb_sb_noss_1](https://www.amazon.com/s?k=automatic+water+for+plants&crid=2ORM7UKIQ0AZQ&sprefix=automatic+water+for+plant%2Caps%2C163&ref=nb_sb_noss_1);
 
-##Selected Products
+## Selected Products
 
 ### 1. [Smart Automatic Plant Watering System- Plant Watering Devices for 20 Potted Plants, Auto Drip Irrigation System Programmable Timer & Compatible With Alexa](https://a.co/d/8LSiB7Y)
-
 
 Price: $40.99
 
 Vendor: Amazon
-
-
 ![Smart Automatic Plant Watering System Amazon Picture](SmartAutomaticPlantWateringSystemwithAlexaTimer.png)
 
 #### Positive Comments
+
 | **Voice of the Customer** | **Restated Customer Need** |
 |---------------------------|-----------------------------|
-| "Total game-changer for plant parents! This smart watering system has been a lifesaver for my 20 plants. The programmable timer and Alexa compatibility make it super easy to use. No more overwatering or underwatering — my plants are thriving! The setup was a breeze, and the system's reliability gives me peace of mind. Highly recommend!" | 1. The system needs to reliably water the plant. (explicit) <br>2. App is easy to use. (explicit) <br>3. System is intuitive to understand. (latent) <br>4. Keeps plants at proper water level. (explicit) |
+| "Total game-changer for plant parents! This smart watering system has been a lifesaver for my 20 plants. The programmable timer and Alexa compatibility make it super easy to use. No more over-watering or under-watering — my plants are thriving! The setup was a breeze, and the system's reliability gives me peace of mind. Highly recommend!" | 1. The system needs to reliably water the plant. (explicit) <br>2. App is easy to use. (explicit) <br>3. System is intuitive to understand. (latent) <br>4. Keeps plants at proper water level. (explicit) |
 | "It's adorable. I love the way it looks and the way it DID light up. Turned it on for a couple hours one day, and the next day I turned it on, left the house for 5 hours and returned to a dead battery. It's really cute, the interchangeable details are held to the sign well. The bow needed a little fluffing, but that was due to shipping. I just wish the battery in the back light lasted longer." | 5. Device needs to have efficient power use. (latent) <br>6. Device needs to have backup option for power. (latent) |
-| "... This kit comes with enough drip heads for 20 plants though it would be easy to buy more. They're pretty standard. It also comes with plenty of T junctions and plugs and whatever else you'll need to build your custom setup... The water pressure is really good. I was surprised. The furthest plant I have from the tank has to be nearly 20 feet and it was already dripping before I got up to check it. The pressure is adequate for plenty of plants..." | 7. The device needs to have modularity. (latent) <br>8. The kit needs to have backup pieces. (latent) <br>9. The device needs to measure water moisture in plants. (explicit) <br>10. The device needs secure non-leaking hoses. (latent) |
+| "... This kit comes with enough drip heads for 20 plants though it would be easy to buy more. They're pretty standard. It also comes with plenty of T junctions and plugs and whatever else you'll need to build your custom setup... The water pressure is really good. I was surprised. The furthest plant I have from the tank has to be nearly 20 feet and it was already dripping before I got up to check it. The pressure is adequate for plenty of plants..." | 7. The device needs to have modularity. (latent) <br>8. The kit needs to have backup pieces. (latent) <br> 9. The device needs to measure water moisture in plants. (explicit) <br>10. The device needs secure non-leaking hoses. (latent) |
 
 <!-- help idk how to label the fourth one 
-1. is debatable--> 
+1. is debatable-->
 
 #### Negative Comments
+
 | **Voice of the Customer** | **Restated Customer Need** |
 |---------------------------|-----------------------------|
 | "The device seems to be a great idea; however, the manufacturer provides virtually NO documentation. I also could not locate a website to ask for help. In 30 years of receiving items (books in the 90s), I have never given a rating of ONE star. Without good setup instructions, I will likely return the item for a refund and purchase another." | 1. Needs to have accessible documentation. (explicit) <br>2. Device needs to match presented expectation. (latent) |
 | "This item's light timer never worked. I manually turned it on in the evening and off in the morning. After only 3 uses, it did not work at all. I replaced the batteries and it still does not work. Very disappointed in this item." | 3. System needs redundancy as backups. (latent) <br>4. System needs manual control options. (explicit) <br>5. Device needs to be robust. (explicit) <br>6. The device needs to alert when low on power. (explicit) <br>7. The device needs a timer function if it’s not automatic. (explicit) |
 
+### 1. [Biling Solar Drip Irrigation System](https://a.co/d/hHT844u)
 
-
-### 1.Biling Solar Drip Irrigation System(https://a.co/d/hHT844u)
-
-
-![Biling Solar Drip Irrigation Product Picture](BilingSolarDripIrrigationProduct.png) 
+![Biling Solar Drip Irrigation Product Picture](BilingSolarDripIrrigationProduct.png)
 
 Price: $26.99
 
 Vendor: Amazon
 
 #### Positive Comments
+
 | **Voice of the Customer** | **Restated Customer Need** |
 |---------------------------|-----------------------------|
 | This is working so well for me on my balcony. I am watering ten plants. The timer is easy to set up as well. I am north facing and the panel gets plenty of solar energy to complete daily waterings. The green bucket holds 5 gallons of water. At daily watering for 5 minutes per time, it lasts a full week. Plants are very happy in the Texas heat. | 1. Device needs to function over a longer duration of time. (latent) <br>2. Device must be able to withstand hot environments. (latent) <br>3. Device must be able to withstand cold environment. (latent) <br>4. Device needs minimal footprint. (latent) <br>5. The device needs to hold sufficient power. (explicit) |
@@ -104,6 +100,7 @@ Vendor: Amazon
 
 
 #### Negative Comments
+
 | **Voice of the Customer** | **Restated Customer Need** |
 |---------------------------|-----------------------------|
 | This product is a good concept for people with a small pot garden and no available hose outlet, such as on a patio or balcony. However, the plastic drippers are made of very soft plastic and are very difficult to insert fully into the tubing. Before they can be fully inserted, they typically bend or twist, and once that happens, they are finished. I tried warming the tubing with hot water, and gently using a heat gun, and even tried lubricating with soapy water, but nothing helped. | 1. The device needs to be compatible with parts. <br>2. The device needs design tolerance for material warpage and assembly. <br>3. The device needs a tool to assist difficult assembly parts. |
@@ -127,6 +124,7 @@ Price: $62.99
 Vendor: Amazon
 
 #### Positive Comments
+
 | **Voice of the Customer**                                                                                                                                                                                                                                                                              |                                                                                                    **Restated Customer Need** |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------: |
 | "If I was using soil instead of DWC, the proper amount to water is even easier to determine. Great little product that makes my gardening life MUCH easier."                                                                                                                                           |                                                                 1. The device is versatile in growing media types. (explicit) |
@@ -138,6 +136,7 @@ Vendor: Amazon
 | "I purchased a separate 7 gallon container and hoping to be able to keep my plants alive during long stretches while I’m out of town."                                                                                                                                                                 |                                         7. Product may not be suitable to leave for long periods of time unattended. (latent) |
 
 #### Negative Comments
+
 | **Voice of the Customer**                                                                                                     |                                                                                                                **Restated Customer Need** |
 | :---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | "My thumbs just felt pain trying to slide the tubing over the T connectors… this was a painful process."                      |                           1. The user needs a way to attach tubing to connectors without excessive physical force or discomfort. (latent) |
@@ -162,10 +161,10 @@ Vendor: Amazon
 
 ### 1. [Raddy WS-1 Drip Irrigation Kit, 5W Solar Powered Automatic Watering System, Easy DIY Water Timer for Plants on The Balcony, Gardens, and Green House, Supported 15 Pots](https://a.co/d/1hwOo1y)
 
-
 ![Raddy WS-1 Drip Irrigation Kit Amazon Picture](RaddyWS1DripIrrigationKit.png)
 
 #### Positive Comments
+
 | **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------: |
 | "The pump is very easy to set up and is working great until now."                                                                                                                                 |                                                    1. The device needs to be simple and intuitive to set up and use. (explicit) |
@@ -184,8 +183,8 @@ Vendor: Amazon
 | "The comprehensive kit allows for easy customization and adaptability to different watering needs. Even for those new to irrigation systems, the Raddy WS-1 provides a user-friendly experience." |                              14. The user needs the product to be accessible for both beginner and advanced gardeners. (latent) |
 | "The user needs a dependable irrigation system that balances power, ease of use, and adaptability."                                                                                               |                  15. The user needs a dependable irrigation system that balances power, ease of use, and adaptability. (latent) |
 
-
 #### Negative Comments
+
 | **Voice of the Customer** | **Restated Customer Need** |
 |----------------------------|----------------------------|
 | "The drippers are not good quality; two broke while I was installing them." | 1. The drippers need to be durable so that do not break during installation or normal use. (explicit) |
@@ -205,21 +204,23 @@ Price: $35.09
 
 **Search Results Link:**[https://www.amazon.com/s?k=automatic+watering+system&crid=ZUU5XN5FJMNL&sprefix=automatic+watering+system%2Caps%2C293&ref=nb_sb_noss_1](https://www.amazon.com/s?k=automatic+watering+system&crid=ZUU5XN5FJMNL&sprefix=automatic+watering+system%2Caps%2C293&ref=nb_sb_noss_1);
 
-##Selected Products
+## Selected Products
 
-###1. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer](https://a.co/d/1iT5VUf)
-
+### 1. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer](https://a.co/d/1iT5VUf)
 
 ![Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants](DualPumpAutoPlantWaterIndor.jpg)
 
 #### Positive Comments
+
 | **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------: |
 | "The need for an open bucket of water was a non-starter for me due to my curious cats and the clunky look of a bucket sitting in my living room."                                                                                                                                 |                                                    1. The device needs to have a closed water source. (explicit) |
 | "I decided to give this dual-pump system a try, hoping it would offer a better solution for an upcoming vacation"                                                                                                                                            |                2. The pump needs to be reliable when user is away. (Latent) |
 | " I can run the intake tubes directly into large, sealed water jugs"  |                                3. The user needs tubes to be directly connected to water jugs. (explicit) |
-| "Powerful and Consistent: The pumps seem strong enough to push water consistently to all the plant locations I've set up."          |                            4. The user needs an water pumps to have emnough power to reach entire house. (explicit) |"                                                                                                         |                                      
+| "Powerful and Consistent: The pumps seem strong enough to push water consistently to all the plant locations I've set up."          |                            4. The user needs an water pumps to have enough power to reach entire house. (explicit) |
+
 #### Negative Comments
+
 | **Voice of the Customer** | **Restated Customer Need** |
 |----------------------------|----------------------------|
 | "Still Timer-Based, Not Sensor-Based: My only wish for this type of system, in general, is that it would operate on soil moisture sensors instead of just a timer." | 1. System needs to be moisture based instead of timer based (explicit) |
@@ -238,17 +239,19 @@ Price: $26.99
 
 ### 1. [Breeze Touch 50FT Automatic Solar Drip Irrigation System, Drip Irrigation Kit with 12 Timing Modes, Supported 15 Pots, Indoor/Outdoor Irrigation System for Garden, Balcony & Patio Watering System](https://a.co/d/bZ1iJA2)
 
-
 ![Breeze Touch 50FT Automatic Solar Drip Irrigation System](BreezeTouch50ftAutoIrrigation.jpg)
 
 #### Positive Comments
+
 | **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------: |
 | "This drip irrigation system has almost everything you need to set up automatic watering of pot plants."| 1. The device is easy to set up and use. (explicit)| 
 |I am impressed with how easy it is to set the watering system up. The control console has two mounting holes for mounting to a wall with screws which are included "                              | 2. The system has mounting options included. (Explicit) |
 | " The solar panel has several mounting options that allow you to mount it to a wall or on a stake "  | 3. Solar panel has mounting option as well (explicit) |
-| "There is a generous amount of irrigation tubing provided, and it was easy to cut to custom lengths for my pot plants."          |                            4. There is plenty of material provided (explicit) |"                                                                                           |                                                   
+| "There is a generous amount of irrigation tubing provided, and it was easy to cut to custom lengths for my pot plants."          |                            4. There is plenty of material provided (explicit) |
+
 #### Negative Comments
+
 | **Voice of the Customer** | **Restated Customer Need** |
 |----------------------------|----------------------------|
 | "took a while to set up/ depending what type of setup" | 1. System was hard to setup (explicit) |
@@ -278,36 +281,37 @@ In order to fully get the groups flushed out we decided to keep a focus on items
 ![Image with groups for user needs](GroupingsUserNeeds.jpg)
 
 Next we needed to rank the requirements. For the groups we had 4 deciding factors:
- - Critical to core functionality
- - User impact and usability
- - Technical feasibility
- - Risk and Safety concerns
+
+- Critical to core functionality
+- User impact and usability
+- Technical feasibility
+- Risk and Safety concerns
 
  Once the groups were organized we were able to focus on ranking the needs themselves. Since their groups were a product of their similarities we decided that it should stay similar for their rankings.
 
- - Direct impact on system reliability and core performance
-    > Ensure the system works, water delivery is consistent, and critical alerts are in place. 
- - User safety and failure prevention
-    > Alerts for low water or power, leak prevention and system failure points.
- - User Control and customization flexibility 
-    > Features allowing users to customize their watering schedules and control work flows.
- - Ease of use and accessibility
-    > Items that reduce complexity, improve setup, or simplify operations.
- - Environmental durability
-    > Ability to withstand heat, cold, and physical relocation.
- - Convenience
-    > Ease of installation and aesthetic decisions
- - Redundancies and backups
-    > Backup's in case of weaker main systems. 
+- Direct impact on system reliability and core performance
+    > - Ensure the system works, water delivery is consistent, and critical alerts are in place. 
+- User safety and failure prevention
+    > - Alerts for low water or power, leak prevention and system failure points.
+- User Control and customization flexibility 
+    > - Features allowing users to customize their watering schedules and control work flows.
+- Ease of use and accessibility
+    > - Items that reduce complexity, improve setup, or simplify operations.
+- Environmental durability
+    > - Ability to withstand heat, cold, and physical relocation.
+- Convenience
+    > - Ease of installation and aesthetic decisions
+- Redundancies and backups
+    > - Backup's in case of weaker main systems. 
 
     Finally we had the end result of the ranked tables which can be found below in order of the deemed most important needs to less important needs. 
 
-
 #### User Needs Table
+
 The categories were determined based on criticality to core device function, user impact and usability, technical dependencies and feasibility, risk and safety considerations and less critical but still important aspects. We were able to narrow that down into 11 categories in no specific order. The need statments in the table below are in order of importance with most important being first per catagory. Our Team determined the ranking based on direct impact on system reliability and core performance, user safety and failure prevention, user control and customization flexibility, ease of use and accessibility, environmental resilience and durability, convenience and aesthetic features, and redundancies and backups. 
 
-
 # Device Requirements Tables
+
 | Requirement                                                                                        | Type        |
 | -------------------------------------------------------------------------------------------------- | ----------- |
 | The device needs to match the presented expectation.                                               | Latent      |
@@ -338,6 +342,7 @@ The categories were determined based on criticality to core device function, use
 | The user needs a built-in reset or recovery mode for diagnostics without full disassembly          | Latent      |
 
 ## Watering System & Pump Features
+
 | Requirement                                                                       | Type        |
 | --------------------------------------------------------------------------------- | ----------- |
 | The system needs to reliably water the plants.                                    | Explicit    |
@@ -354,6 +359,7 @@ The categories were determined based on criticality to core device function, use
 | User needs watering system to be durable and long lasting                         | Unspecified |
 
 ## User Interface & Control
+
 | Requirement                                                                                                                 | Type        |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | The user needs to schedule watering times and frequencies for individual plants based on their unique requirements.         | Explicit    |
@@ -376,6 +382,7 @@ The categories were determined based on criticality to core device function, use
 | The user needs to set watering durations shorter than one minute when needed                                                | Latent      |
 
 ## Alerts & Monitoring
+
 | Requirement                                                                               | Type        |
 | ----------------------------------------------------------------------------------------- | ----------- |
 | The user needs real-time alerts or fail-safe behaviors when water supply is insufficient. | Latent      |
@@ -387,6 +394,7 @@ The categories were determined based on criticality to core device function, use
 | User needs sensor based system over water based system                                    | Unspecified |
 
 ## Tubing, Hoses, and Water Delivery Hardware
+
 | Requirement                                                                                                     | Type        |
 | --------------------------------------------------------------------------------------------------------------- | ----------- |
 | The tubing needs to be able to withstand the pressure from the pump.                                            | Explicit    |
@@ -400,6 +408,7 @@ The categories were determined based on criticality to core device function, use
 | Device needs secure non leaking hoses.                                                                          | Latent      |
 
 ## Power & Energy
+
 | Requirement                                                                          | Type     |
 | ------------------------------------------------------------------------------------ | -------- |
 | Device needs to hold sufficient power.                                               | Explicit |
@@ -409,6 +418,7 @@ The categories were determined based on criticality to core device function, use
 | User needs a battery that is easily replaceable when it reaches the end of its life. | Explicit |
 
 ## Setup & Assembly
+
 | Requirement                                                                          | Type        |
 | ------------------------------------------------------------------------------------ | ----------- |
 | Setup needs to be straightforward                                                    | Unspecified |
@@ -418,6 +428,7 @@ The categories were determined based on criticality to core device function, use
 | User needs a battery that is easily replaceable when it reaches the end of its life. | Explicit    |
 
 ## Environmental & Physical Conditions
+
 | Requirement                                                                                | Type   |
 | ------------------------------------------------------------------------------------------ | ------ |
 | Device must be able to withstand hot environments                                          | Latent |
@@ -432,6 +443,7 @@ The categories were determined based on criticality to core device function, use
 | The kit needs to have backup pieces.                                                       | Latent |
 
 ## Design & Aesthetics
+
 | Requirement                                                                            | Type        |
 | -------------------------------------------------------------------------------------- | ----------- |
 | The user needs the system to blend into its environment and not be visually obtrusive. | Latent      |
@@ -439,12 +451,14 @@ The categories were determined based on criticality to core device function, use
 | User needs the ability to hide tubing for cosmetic purposes of the house.              | Unspecified |
 
 ## Water Quality & Filtration
+
 | Requirement                                   | Type   |
 | --------------------------------------------- | ------ |
 | Water filter needs be efficient for size.     | Latent |
 | Water filter needs to have a small footprint. | Latent |
 
 ## Miscellaneous
+
 | Requirement                                                                                      | Type        |
 | ------------------------------------------------------------------------------------------------ | ----------- |
 | Keeps plants at proper water level.                                                              | Unspecified |
@@ -457,7 +471,6 @@ The categories were determined based on criticality to core device function, use
 | The user needs irrigation that delivers water directly to the plant roots for optimal absorption | Latent      |
 | User needs ability to only water a handful plants without using too much water                   | Unspecified |
 | The user needs a dependable irrigation system that balances power, ease of use, and adaptability | Latent      |
-
 
 <!-- The extra tabs over on the if makes it appear embedded which might be nice
 
