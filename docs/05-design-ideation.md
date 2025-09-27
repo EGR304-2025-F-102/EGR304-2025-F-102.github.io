@@ -13,7 +13,7 @@ This write-up captures the best of that process and lays the groundwork for a sm
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement. Here is an example developed by Austin.
 
 | Requirement / Need                                                                 | Feature            | Detail                              |
 | ---------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
