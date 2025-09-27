@@ -51,6 +51,10 @@ Value -added is our extra features that are nice to have but critical to the dev
 **Austins Design**
 |Billboard style advertisment 
 ![Austins Design Ideation](austinbilboard-1.png)
+
+**Terry's Design**
+|Irrigation Watering System product description 
+![Terry's Design Ideation](Terry'sDesignConcept.png)
 Add your different product concepts stuff here
 
 ## Step Five 
