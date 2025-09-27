@@ -27,6 +27,10 @@ Add your context and tables
 **Austins Design**
 |Billboard style advertisment 
 ![Austins Design Ideation](austinbilboard-1.png)
+
+**Terry's Design**
+|Irrigation Watering System product description 
+![Terry's Design Ideation](Terry'sDesignConcept.png)
 Add your different product concepts stuff here
 
 ## Step Six (video link)
