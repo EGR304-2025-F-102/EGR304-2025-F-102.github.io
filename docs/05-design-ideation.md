@@ -13,6 +13,8 @@ cur, aut in adhuc crimina **habebat**: pro.
 ## Generating Ideas
 
 For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+
+
 | Requirement / Need                                                                 | Feature            | Detail                              |
 | ---------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
 | 6.1 The product shall be able to withstand splashes of water. (P10)                | O-ring             | Electronics should be sealed with O-rings or gaskets. |
