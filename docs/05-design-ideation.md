@@ -51,11 +51,11 @@ Value -added is our extra features that are nice to have but critical to the dev
 
 ## Step Four
 **Austins Design**
-|Billboard style advertisment 
+Billboard style advertisment 
 ![Austins Design Ideation](austinbilboard-1.png)
 
 **Terry's Design**
-|Irrigation Watering System product description 
+Irrigation Watering System product description 
 ![Terry's Design Ideation](Terry'sDesignConcept.png)
 Add your different product concepts stuff here
 
