@@ -43,17 +43,20 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) | Quick connections  | The product should include quick connect ends. |
 | The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) | Memory tubing      | The product should have tubing that expands when heated and shrinks when cooled. |
 
+The total list of features can be found right here:
 ![Features by Person](featuresAssignmentImages/FeaturesUnderIndividual.jpg)
 
+From there we decided to group them into 6 categories that represented the overall theme of the features. Even if that theme was not intended by the original developer. 
 ![Unordered Features](featuresAssignmentImages/UnorderedFeatureGroups.jpg)
 
 ## Step Three
 
-Core Functionality is the most important element as it directly alters how we go about designing the project. 
+Core Functionality is the most important element as it directly alters how we go about designing the project.
 User experience is the next ranking category as it is important to ensure that the user has a great experience in order to continue using our product.
 Durability and safety is next as we want to ensure people/pets aren’t getting hurt to sue us and the device doesn’t break while in operation easily.
-Value -added is our extra features that are nice to have but critical to the development of an irrigation device. 
+Value -added is our extra features that are nice to have but critical to the development of an irrigation device.
 
+These four values led to a ranked list that can then be read here (if you really want to zoom in).
 ![Ordered Features](featuresAssignmentImages/OrderedFeatures.jpg)
 
 ## Step Four
