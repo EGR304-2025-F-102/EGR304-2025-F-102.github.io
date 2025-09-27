@@ -7,13 +7,11 @@ tags:
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+During this section we go over how our team picked requirements and generated ideas from those requirements to get the future features of our product.
 
 ## Generating Ideas
 
 For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
-
 
 | Requirement / Need                                                                 | Feature            | Detail                              |
 | ---------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
@@ -42,26 +40,36 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) | Quick connections  | The product should include quick connect ends. |
 | The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) | Memory tubing      | The product should have tubing that expands when heated and shrinks when cooled. |
 
+![Features by Person](featuresAssignmentImages/FeaturesUnderIndividual.jpg)
+
+![Unordered Features](featuresAssignmentImages/UnorderedFeatureGroups.jpg)
+
 ## Step Three
+
 Core Functionality is the most important element as it directly alters how we go about designing the project. 
 User experience is the next ranking category as it is important to ensure that the user has a great experience in order to continue using our product.
 Durability and safety is next as we want to ensure people/pets aren’t getting hurt to sue us and the device doesn’t break while in operation easily.
 Value -added is our extra features that are nice to have but critical to the development of an irrigation device. 
 
+![Ordered Features](featuresAssignmentImages/OrderedFeatures.jpg)
 
 ## Step Four
+
 **Austins Design**
-Billboard style advertisment 
+Billboard style advertisment
 ![Austins Design Ideation](austinbilboard-1.png)
 
 **Terry's Design**
-Irrigation Watering System product description 
+Irrigation Watering System product description
 ![Terry's Design Ideation](Terry'sDesignConcept.png)
 Add your different product concepts stuff here
 
-## Step Five 
+## Step Five
+
 In order to brainstorm the features required in this process our team decided to split up the work and allow each person the freedom to think independently. This allowed our ideas to flourish without even a hint of fear of judgement. The result was as you just read a very well thought out list of ideas with characteristics coming from each team member. Although good luck figuring out who provided each idea. We did this assignment with quick meetings after class and through asynchronous work that was then compiled features onto a google doc for ease of sharing. The features were brainstormed from user needs and requirements developed in the User Needs and Benchmarking assignment. In order to choose the best elements each individual was allowed to choose based on their discretion. Austin prioritized ease of use, reliability, and safety as the basis for the requirements he chose and then proceeded to turn into features. Jacob chose requirements to boost product lifespan, user understanding and ease of setup. Terry chose based on the requirements perceived impact on durability and quality for different parts of the project. David focused on requirements that could build an easily maintainable device for a variety of circumstances. After gathering all of the features we looked at common ways to solve the problem either through brief google searches or by pulling up ideas that we’ve seen in the wild. This left our document with a number of features which we brought into a digital whiteboard which is shown in the images above. This white board allowed for easier movement of the features and facilitated the conversation with the group. This allowed us to group based on the six traits we recognized across each member’s features. These groups are User Control, Physical Design, Standard Operation, Safety Features, Backups, and Safety. Once grouped we ranked them based on core functionality which impacts project design, user experience which impacts our sellability, durability which builds safety, and extra values for things outside of the current needs.
 
+<!--
 
 ## Step Six (video link)
 Embedded a YouTube video that covers the 
+-->
