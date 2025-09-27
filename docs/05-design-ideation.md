@@ -61,14 +61,37 @@ These four values led to a ranked list that can then be read here (if you really
 
 ## Step Four
 
+<!-- THROW IN THE ONES YOU USED FOR THE ADS I put what I thought you did -->
 **Austins Design**
 Billboard style advertisment
 ![Austins Design Ideation](austinbilboard-1.png)
 
+Brief list of features desired in this advertisement.
+
+- Pet friendly
+- Scheduled water times
+- Minimal power drain
+- Sealed and secure system that prevents leaks
+- Holds sufficient power
+- Supports multiple watering cycles without frequent recharging
+- Doesn't warp in heat
+- LCD Screen
+- Blue and red LED signals
+- Manual override
+
 **Terry's Design**
 Irrigation Watering System product description
 ![Terry's Design Ideation](Terry'sDesignConcept.png)
-Add your different product concepts stuff here
+<!--Add your different product concepts stuff here -->
+
+Brief list of features elaborated on for this advertisement
+
+- Pipes don't warp significantly in the heat
+- Sealed and secure system that prevents overflow
+- Pipes shut off after a certain amount of water has passed through
+- Watertight seals and rubber washers
+- Multiple drip outputs
+- Turnable button for programming
 
 ## Step Five
 
