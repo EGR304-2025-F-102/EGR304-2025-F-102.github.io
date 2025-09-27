@@ -7,7 +7,10 @@ tags:
 
 ## Intro/overview
 
-During this section we go over how our team picked requirements and generated ideas from those requirements to get the future features of our product.
+Our team set out to design a self-regulating irrigation system that’s reliable, easy to use, and built to last. We started by breaking down user needs and product requirements, then brainstormed five possible features for each one. From water-resistant seals to sturdy bases and simple refill options, we explored practical solutions that improve both function and user experience.
+Each team member brought a different focus—durability, ease of setup, safety, and maintenance—which helped us cover a wide range of ideas. We grouped the features into categories like Physical Design, User Control, and Safety, then ranked them based on how much they impact core functionality and overall experience.
+This write-up captures the best of that process and lays the groundwork for a smart, dependable irrigation system that works for real people in real situations.
+
 
 ## Generating Ideas
 
