@@ -11,7 +11,6 @@ Our team set out to design a self-regulating irrigation system that’s reliable
 Each team member brought a different focus—durability, ease of setup, safety, and maintenance—which helped us cover a wide range of ideas. We grouped the features into categories like Physical Design, User Control, and Safety, then ranked them based on how much they impact core functionality and overall experience.
 This write-up captures the best of that process and lays the groundwork for a smart, dependable irrigation system that works for real people in real situations.
 
-
 ## Generating Ideas
 
 For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
@@ -46,7 +45,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 The total list of features can be found right here:
 ![Features by Person](featuresAssignmentImages/FeaturesUnderIndividual.jpg)
 
-From there we decided to group them into 6 categories that represented the overall theme of the features. Even if that theme was not intended by the original developer. 
+From there we decided to group them into 6 categories that represented the overall theme of the features. Even if that theme was not intended by the original developer.
 ![Unordered Features](featuresAssignmentImages/UnorderedFeatureGroups.jpg)
 
 ## Step Three
@@ -93,9 +92,23 @@ Brief list of features elaborated on for this advertisement
 - Multiple drip outputs
 - Turnable button for programming
 
+**David's Design**
+Large Tank advertisement
+![Cover Design Ideation](DesignConcept.png)
+
+Brief list of features built into this simplified advertisement
+
+- Funnel to internal tank
+- Large footprint for stability
+- Multiple output streams
+- Gravity fed output
+- Water tank at bottom for added weight
+- Funnel can be used for a siphon's output
+- Compatible with smaller external reservoirs
+
 ## Step Five
 
-In order to brainstorm the features required in this process our team decided to split up the work and allow each person the freedom to think independently. This allowed our ideas to flourish without even a hint of fear of judgement. The result was as you just read a very well thought out list of ideas with characteristics coming from each team member. Although good luck figuring out who provided each idea. We did this assignment with quick meetings after class and through asynchronous work that was then compiled features onto a google doc for ease of sharing. The features were brainstormed from user needs and requirements developed in the User Needs and Benchmarking assignment. In order to choose the best elements each individual was allowed to choose based on their discretion. Austin prioritized ease of use, reliability, and safety as the basis for the requirements he chose and then proceeded to turn into features. Jacob chose requirements to boost product lifespan, user understanding and ease of setup. Terry chose based on the requirements perceived impact on durability and quality for different parts of the project. David focused on requirements that could build an easily maintainable device for a variety of circumstances. After gathering all of the features we looked at common ways to solve the problem either through brief google searches or by pulling up ideas that we’ve seen in the wild. This left our document with a number of features which we brought into a digital whiteboard which is shown in the images above. This white board allowed for easier movement of the features and facilitated the conversation with the group. This allowed us to group based on the six traits we recognized across each member’s features. These groups are User Control, Physical Design, Standard Operation, Safety Features, Backups, and Safety. Once grouped we ranked them based on core functionality which impacts project design, user experience which impacts our sellability, durability which builds safety, and extra values for things outside of the current needs.
+In order to brainstorm the features required in this process our team decided to split up the work and allow each person the freedom to think independently. This allowed our ideas to flourish without even a hint of fear of judgement. The result was as you just read a very well thought out list of ideas with characteristics coming from each team member. Although good luck figuring out who provided each idea. We did this assignment with quick meetings after class and through asynchronous work that was then compiled features onto a google doc for ease of sharing. The features were brainstormed from user needs and requirements developed in the User Needs and Benchmarking assignment. In order to choose the best elements each individual was allowed to choose based on their discretion. Austin prioritized ease of use, reliability, and safety as the basis for the requirements he chose and then proceeded to turn into features. Jacob chose requirements to boost product lifespan, user understanding and ease of setup. Terry chose based on the requirements perceived impact on durability and quality for different parts of the project. David focused on requirements that could build an easily maintainable device for a variety of circumstances. After gathering all of the features we looked at common ways to solve the problem either through brief google searches or by pulling up ideas that we’ve seen in the wild. This left our document with a number of features which we brought into a digital whiteboard which is shown in the images above. This white board allowed for easier movement of the features and facilitated the conversation with the group. This allowed us to group based on the six traits we recognized across each member’s features. These groups are User Control, Physical Design, Standard Operation, Safety Features, Backups, and Safety. Once grouped we ranked them based on core functionality which impacts project design, user experience which impacts our saleability, durability which builds safety, and extra values for things outside of the current needs.
 
 <!--
 
