@@ -17,7 +17,7 @@ _Italic Text_
 
 ## Images
 
-![Team Block Diagram](Team102BlockDiagram.png)
+![Team Block Diagram](image/Team102BlockDiagram.png)
 
 <!--
 ![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
