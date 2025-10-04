@@ -1,5 +1,5 @@
 ---
-title: Team Block Diagram
+title: Block Diagram, Process Diagram, and Message Structure
 ---
 
 ## Introduction
@@ -10,14 +10,16 @@ _Italic Text_
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* How can a capacitive resistor measure moisture?
+* Is the only way for a pic18F54Q43 to control a motor through an H-Bridge?
+* How does I2C communication work?
+* Why does the connector need 8 pins if UART and I2c both have 1 receive and 1 send channel?
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![Team Block Diagram](TBlockDiagram.png)
 
+<!--
 ![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
 **Figure 2:** Early PCB working design
 
@@ -53,5 +55,5 @@ _Italic Text_
 
 
 ## References
-
+-->
 
