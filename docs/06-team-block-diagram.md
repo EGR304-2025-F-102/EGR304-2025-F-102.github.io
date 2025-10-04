@@ -4,9 +4,9 @@ title: Block Diagram, Process Diagram, and Message Structure
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+This page lays out how our team plans to connect and communicate across individual boards for our Self Regulating Irrigation Project. Using a shared block diagram, we’re mapping out the wiring, pin assignments, and message flow between teammates to make sure everything fits together and meets the course requirements.
+Each teammate is designing their own board, so it’s important to agree on how we’ll use the 8-pin connectors and distribute functionality (Pin 8 is reserved for ground). This setup will help make sure everyone’s subsystem is clearly defined. The diagrams and structure here will guide our team and serve as a reference for the external design later in the semester.
+
 
 ## Research Question
 
