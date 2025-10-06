@@ -26,6 +26,8 @@ Here are some close ups so they can be read easier.
 ![left half](image/leftHalfTeamBlockDiagram.png)
 ![right half](image/rightHalfTeamBlockDiagram.png)
 
+<!-- ADD DRAW.IO FILE -->
+
 <!--
 ![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
 **Figure 2:** Early PCB working design
