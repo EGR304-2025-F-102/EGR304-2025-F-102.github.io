@@ -41,4 +41,5 @@ Edits for the team are based in App-team-org.md under docs - Appendix. and there
 | Jacob Dirks            | [Jacobdirks.GitHub](https://github.com/JacobDirks/JacobDirks.github.io) |
 | Austin Gonzalez        | [AustinGonzalez-EGR304.GitHub](https://austingonzalez-egr304.github.io/) |
 | Terry Williams         |[tlwill38-bit.GitHub](https://tlwill38-bit.github.io/) |
+| David Cannon        | [DavidCannon.GitHub](https://github.com/Davino1212/DavidxCannon.github.io) |
 
