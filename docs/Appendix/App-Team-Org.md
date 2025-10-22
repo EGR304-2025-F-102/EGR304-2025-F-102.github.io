@@ -20,7 +20,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|David Cannon |  ? | ? | ? |
+|David Cannon |  Phone | Discord | Canvas |
 |Jacob Dirks |  Discord | Phone | Canvas |
 |Austin Gonzalez |  Discord | Phone | Canvas 
 |Terry Williams  |  Phone | Canvas | Discord |
@@ -46,25 +46,25 @@ Jacob Dirks currently put in times that are extra nice for me to work but there 
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | A | - | - | - | - | - | - |
-| 9:00 AM | A | - | - | - | - | - | - |
-| 10:00 AM | A | - | - | - | - | - | - |
-| 11:00 AM | T, A| T, A| T | - | - | - | - |
-| 12:00 PM | T, A| T, A| T | - | - | - | - |
-| 1:00 PM | T, A| T, A| T | T | - | - | - |
-| 2:00 PM | T, A| - | - | - | - | - | - |
-| 3:00 PM | T, A| - | - | - | - | - | - |
-| 4:00 PM | T, A| T | T | - | - | - | - |
-| 5:00 PM | T, A| T, A| T | - | - | - | - |
-| 6:00 PM | - | J | A | - | - | - | - |
-| 7:00 PM | - | J | - | - | - | - | - |
-| 8:00 PM | - | J | - | - | J | - | - |
-| 9:00 PM | - | J | - | - | J | - | - |
+| 8:00 AM | A, D | - | - | - | - | - | D |
+| 9:00 AM | A, D | - | - | - | - | - | D |
+| 10:00 AM | A, D | - | - | - | - | - | D |
+| 11:00 AM | T, A, D| T, A| T | - | - | - | D |
+| 12:00 PM | T, A, D| T, A| T | - | - | - | D |
+| 1:00 PM | T, A, D| T, A| T | T | - | - | D |
+| 2:00 PM | T, A| - | - | - | - | - | D |
+| 3:00 PM | T, A| - | - | - | - | - | D |
+| 4:00 PM | T, A| T | T | - | - | - | D |
+| 5:00 PM | T, A| T, A| T | - | - | - | D |
+| 6:00 PM | - | J | A | - | - | - | D |
+| 7:00 PM | - | J | - | - | - | - | D |
+| 8:00 PM | - | J | - | - | J | - | D |
+| 9:00 PM | - | J | - | - | J | - | D |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
-| ----- | :------: |
+| David Cannon | D |
 | Jacob Dirks | J |
 | Austin Gonzalez | A |
 | Terry Williams | T |
@@ -97,7 +97,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 | **Name**  | **Role**             |
-|:----------|:---------------------|
+|David Cannon| Project Monitor |
 |Jacob Dirks|  Assignment Leader   |
 |Austin Gonzalez|Meeting Leader    |
 |Terry Williams|Meeting Recorder|
