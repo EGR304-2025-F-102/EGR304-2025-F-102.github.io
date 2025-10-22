@@ -1,12 +1,11 @@
 ---
-title: Block Diagram, Process Diagram, and Message Structure
+title: Block Diagram and Message Structure
 ---
 
 ## Introduction
 
 This page lays out how our team plans to connect and communicate across individual boards for our Self Regulating Irrigation Project. Using a shared block diagram, we’re mapping out the wiring, pin assignments, and message flow between teammates to make sure everything fits together and meets the course requirements.
 Each teammate is designing their own board, so it’s important to agree on how we’ll use the 8-pin connectors and distribute functionality (Pin 8 is reserved for ground). This setup will help make sure everyone’s subsystem is clearly defined. The diagrams and structure here will guide our team and serve as a reference for the external design later in the semester.
-
 
 ## Research Question
 
@@ -15,7 +14,6 @@ Each teammate is designing their own board, so it’s important to agree on how 
 * How does I2C communication work?
 * Why does the connector need 8 pins if UART and I2c both have 1 receive and 1 send channel?
 * How can we ensure the pumps stay primed?
-
 
 ## Images
 
@@ -27,7 +25,7 @@ Here are some close ups so they can be read easier.
 ![right half](image/rightHalfTeamBlockDiagram.png)
 
 <!-- ADD DRAW.IO FILE -->
-The full diagram can be found [here.](https://drive.google.com/file/d/1mQq123aZ8ixA7JW5bNxZQVQ9IIumbgWD/view?usp=sharing)
+The full diagram can be found [on draw io here.](https://drive.google.com/file/d/1mQq123aZ8ixA7JW5bNxZQVQ9IIumbgWD/view?usp=sharing)
 
 <!--
 ![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}

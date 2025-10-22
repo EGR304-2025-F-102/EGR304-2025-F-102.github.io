@@ -67,8 +67,8 @@ Vendor: Amazon
 
 #### Positive Comments
 
-| **Voice of the Customer** | **Restated Customer Need** |
-|---------------------------|-----------------------------|
+| **Voice of the Customer**                                                                                                                                                                                                                                                                              |                                                                                                    **Restated Customer Need** |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------: |
 | "Total game-changer for plant parents! This smart watering system has been a lifesaver for my 20 plants. The programmable timer and Alexa compatibility make it super easy to use. No more over-watering or under-watering — my plants are thriving! The setup was a breeze, and the system's reliability gives me peace of mind. Highly recommend!" | 1. The system needs to reliably water the plant. (explicit) <br>2. App is easy to use. (explicit) <br>3. System is intuitive to understand. (latent) <br>4. Keeps plants at proper water level. (explicit) |
 | "It's adorable. I love the way it looks and the way it DID light up. Turned it on for a couple hours one day, and the next day I turned it on, left the house for 5 hours and returned to a dead battery. It's really cute, the interchangeable details are held to the sign well. The bow needed a little fluffing, but that was due to shipping. I just wish the battery in the back light lasted longer." | 5. Device needs to have efficient power use. (latent) <br>6. Device needs to have backup option for power. (latent) |
 | "... This kit comes with enough drip heads for 20 plants though it would be easy to buy more. They're pretty standard. It also comes with plenty of T junctions and plugs and whatever else you'll need to build your custom setup... The water pressure is really good. I was surprised. The furthest plant I have from the tank has to be nearly 20 feet and it was already dripping before I got up to check it. The pressure is adequate for plenty of plants..." | 7. The device needs to have modularity. (latent) <br>8. The kit needs to have backup pieces. (latent) <br> 9. The device needs to measure water moisture in plants. (explicit) <br>10. The device needs secure non-leaking hoses. (latent) |
@@ -78,8 +78,8 @@ Vendor: Amazon
 
 #### Negative Comments
 
-| **Voice of the Customer** | **Restated Customer Need** |
-|---------------------------|-----------------------------|
+| **Voice of the Customer**                                                                                                     |                                                                                                                **Restated Customer Need** |
+| :---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | "The device seems to be a great idea; however, the manufacturer provides virtually NO documentation. I also could not locate a website to ask for help. In 30 years of receiving items (books in the 90s), I have never given a rating of ONE star. Without good setup instructions, I will likely return the item for a refund and purchase another." | 1. Needs to have accessible documentation. (explicit) <br>2. Device needs to match presented expectation. (latent) |
 | "This item's light timer never worked. I manually turned it on in the evening and off in the morning. After only 3 uses, it did not work at all. I replaced the batteries and it still does not work. Very disappointed in this item." | 3. System needs redundancy as backups. (latent) <br>4. System needs manual control options. (explicit) <br>5. Device needs to be robust. (explicit) <br>6. The device needs to alert when low on power. (explicit) <br>7. The device needs a timer function if it’s not automatic. (explicit) |
 
@@ -93,16 +93,15 @@ Vendor: Amazon
 
 #### Positive Comments
 
-| **Voice of the Customer** | **Restated Customer Need** |
-|---------------------------|-----------------------------|
+| **Voice of the Customer**                                                                                                                                                                                                                                                                              |                                                                                                    **Restated Customer Need** |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------: |
 | This is working so well for me on my balcony. I am watering ten plants. The timer is easy to set up as well. I am north facing and the panel gets plenty of solar energy to complete daily waterings. The green bucket holds 5 gallons of water. At daily watering for 5 minutes per time, it lasts a full week. Plants are very happy in the Texas heat. | 1. Device needs to function over a longer duration of time. (latent) <br>2. Device must be able to withstand hot environments. (latent) <br>3. Device must be able to withstand cold environment. (latent) <br>4. Device needs minimal footprint. (latent) <br>5. The device needs to hold sufficient power. (explicit) |
 | Some very good features - Fairly intuitive to program. My only complaint would be that the pump could be stronger (it really wants to be at the same level as the plants and the water). Also the filter could be shorter so that you can get more water out of your tank before the sensor shuts it off. I'm planning on making my own tank with a cutout for the filter so that it sits lower than the bottom of the rest of the water. | 6. Pump needs to be able to pull water. (explicit) <br>7. Water filter needs to be efficient for size. (latent) <br>8. Water filter needs to have a small footprint. (latent) <br>9. The device needs to alert when low on water. (explicit) <br>10. The device needs to handle sub-optimal positioning to plants. (latent) |
 
-
 #### Negative Comments
 
-| **Voice of the Customer** | **Restated Customer Need** |
-|---------------------------|-----------------------------|
+| **Voice of the Customer**                                                                                                     |                                                                                                                **Restated Customer Need** |
+| :---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | This product is a good concept for people with a small pot garden and no available hose outlet, such as on a patio or balcony. However, the plastic drippers are made of very soft plastic and are very difficult to insert fully into the tubing. Before they can be fully inserted, they typically bend or twist, and once that happens, they are finished. I tried warming the tubing with hot water, and gently using a heat gun, and even tried lubricating with soapy water, but nothing helped. | 1. The device needs to be compatible with parts. <br>2. The device needs design tolerance for material warpage and assembly. <br>3. The device needs a tool to assist difficult assembly parts. |
 | This solar drip irrigation system sounded great, but it didn’t meet my expectations. The solar panel needs full sun for a long time, or it won’t charge well. The pump is weak and couldn’t deliver water evenly to all 15 pots. The instructions were also confusing and made setup harder than it should be. It worked a little once running, but I had to keep checking on it. I gave it 2 stars because the idea is good, but the performance was not reliable. | 4. Device needs to evenly deliver water to setup outputs. <br>5. Device needs a way to quickly charge energy. <br>6. Setup needs to be straightforward. |
 
@@ -185,8 +184,8 @@ Vendor: Amazon
 
 #### Negative Comments
 
-| **Voice of the Customer** | **Restated Customer Need** |
-|----------------------------|----------------------------|
+| **Voice of the Customer**                                                                                                     |                                                                                                                **Restated Customer Need** |
+| :---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | "The drippers are not good quality; two broke while I was installing them." | 1. The drippers need to be durable so that do not break during installation or normal use. (explicit) |
 | "The pipe is so small that the drippers are so difficult to install… and eventually can break." | 2. The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) |
 | "If you are using them in hot weather this plastic from the drippers are not good for it, they won’t last long." | 3. All system components need to perform reliably in hot or harsh weather conditions. (latent) |
@@ -212,8 +211,8 @@ Price: $35.09
 
 #### Positive Comments
 
-| **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------: |
+| **Voice of the Customer**                                                                                                                                                                                                                                                                              |                                                                                                    **Restated Customer Need** |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------: |
 | "The need for an open bucket of water was a non-starter for me due to my curious cats and the clunky look of a bucket sitting in my living room."                                                                                                                                 |                                                    1. The device needs to have a closed water source. (explicit) |
 | "I decided to give this dual-pump system a try, hoping it would offer a better solution for an upcoming vacation"                                                                                                                                            |                2. The pump needs to be reliable when user is away. (Latent) |
 | " I can run the intake tubes directly into large, sealed water jugs"  |                                3. The user needs tubes to be directly connected to water jugs. (explicit) |
@@ -221,8 +220,8 @@ Price: $35.09
 
 #### Negative Comments
 
-| **Voice of the Customer** | **Restated Customer Need** |
-|----------------------------|----------------------------|
+| **Voice of the Customer**                                                                                                     |                                                                                                                **Restated Customer Need** |
+| :---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | "Still Timer-Based, Not Sensor-Based: My only wish for this type of system, in general, is that it would operate on soil moisture sensors instead of just a timer." | 1. System needs to be moisture based instead of timer based (explicit) |
 | "Lots of Tubing to Manage: With many plants, you will inevitably have a lot of thin black tubing running around. Finding ways to route it so it looks neat and tidy takes some effort and planning." | 2. The user needs tubing that is easier to install and route. (explicit) |
 | "Skip: If you're looking for a truly "smart" system that uses soil moisture sensors to determine when to water." | 3. System is not a true smart waterer only timer based. (latent) |
@@ -243,8 +242,8 @@ Price: $26.99
 
 #### Positive Comments
 
-| **Voice of the Customer**                                                                                                                                                                         |                                                                                                      **Restated Customer Need** |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------: |
+| **Voice of the Customer**                                                                                                                                                                                                                                                                              |                                                                                                    **Restated Customer Need** |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------: |
 | "This drip irrigation system has almost everything you need to set up automatic watering of pot plants."| 1. The device is easy to set up and use. (explicit)| 
 |I am impressed with how easy it is to set the watering system up. The control console has two mounting holes for mounting to a wall with screws which are included "                              | 2. The system has mounting options included. (Explicit) |
 | " The solar panel has several mounting options that allow you to mount it to a wall or on a stake "  | 3. Solar panel has mounting option as well (explicit) |
@@ -252,8 +251,8 @@ Price: $26.99
 
 #### Negative Comments
 
-| **Voice of the Customer** | **Restated Customer Need** |
-|----------------------------|----------------------------|
+| **Voice of the Customer**                                                                                                     |                                                                                                                **Restated Customer Need** |
+| :---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | "took a while to set up/ depending what type of setup" | 1. System was hard to setup (explicit) |
 | "Can not get it to work.." | 2. The user was not able to get system working (explicit) |
 | "My one concern is how well it will work indoors during the winter, since we're located in MN and get a lot less sun and there will be a window involved." | 3. System has not been tested in colder weathers. (latent) |

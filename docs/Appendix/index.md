@@ -2,4 +2,4 @@
 title: Appendix - Main Page
 ---
 
-The Appendix is where supporting information goes that is not in the main body.
+The Appendix is where we store supporting information that would have made the main body difficult to read. 
