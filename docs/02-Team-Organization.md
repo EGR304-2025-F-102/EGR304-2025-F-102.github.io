@@ -16,3 +16,5 @@ Describe the distilled purpose, function, or reason for your product to exist. F
 
  > "Google's mission is to organize the world's information and make it universally accessible and useful." -->
  > Team 102's mission is to design sensors in unique ways that enable to users to save on resources, time, and/or energy for processes regarding home smart appliances.
+
+There is more information available in the [Appendix.](https://egr304-2025-f-102.github.io/Appendix/App-Team-Org/)
