@@ -72,7 +72,7 @@ The new product design will be based on existing related products with improveme
       - 6.2 The product shall have a sturdy base to prevent spilling while filling or pet interference. (P7)
       - 6.3 The product shall have no exposed gears or impellers in its design. (P9)
   
-## Requirement Criteria Specifications <!-- Austin -->
+## **Requirement Criteria Specifications** <!-- Austin -->
 
 - 1.1.1 - Ensure the footprint is no larger than 150mm X 400MM.
 - 1.1.2 - Reservoir refill opening should be larger than 40 mm diameter, require no tools for removal and should not take longer than 2 minutes to refill.
@@ -93,7 +93,7 @@ The new product design will be based on existing related products with improveme
 - 6.6.2 - Base resists tipping under 10 N side force and remains upright on 10° inclined surface.
 - 6.6.3 - All moving parts enclosed behind ≥ 1.5 mm plastic barrier.
 
-## Open Questions <!-- Austin -->
+## **Open Questions** <!-- Austin -->
 
 - Can we have our product be compatible with any water container size?
 - Can we create a product that blends into the home environment?
