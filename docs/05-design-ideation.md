@@ -92,7 +92,8 @@ Brief list of features elaborated on for this advertisement
 - Multiple drip outputs
 - Turnable button for programming
 
-**David's Design**
+
+<!--**David's Design**
 Large Tank advertisement
 ![Cover Design Ideation](DesignConcept.png)
 
@@ -104,7 +105,8 @@ Brief list of features built into this simplified advertisement
 - Gravity fed output
 - Water tank at bottom for added weight
 - Funnel can be used for a siphon's output
-- Compatible with smaller external reservoirs
+- Compatible with smaller external reservoirs 
+-->
 
 ## Step Five
 
