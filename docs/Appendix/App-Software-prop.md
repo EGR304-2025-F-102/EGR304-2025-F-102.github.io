@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 
-## Close up Images
+## **Close up Images**
 
-![moisture sensor](images/MoistureSensorSoftware.png)
+![moisture sensor](images/MoistureSensorSoftware.png){style="max-height:200px;"}
 **Figure 1:** Moisture sensor section on the left of the main Activity diagram image.
 
-![main logic](images/mainlogicSoftware.png)
+![main logic](images/mainlogicSoftware.png){style="max-height:200px;"}
 **Figure 2:** Main logic section in the center of the main Activity diagram image.
 
-![Internal Reservoir](images/internalReseviorSoftware.png)
+![Internal Reservoir](images/internalReseviorSoftware.png){style="max-height:200px;"}
 **Figure 1:** Internal Reservoir section on the right of the main Activity diagram image.

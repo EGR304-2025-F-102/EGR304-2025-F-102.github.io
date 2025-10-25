@@ -4,7 +4,7 @@ title: Software Proposal
 
 ## Introduction
 
-This flow diagram shows how our automatic plant watering and fertilizing system works. It’s designed for people living in apartments or town-homes who want to care for a few indoor plants—no outdoor setup needed. The system uses sensors to check soil moisture and water levels, and motors to handle watering and fertilizer mixing. It can water plants on a schedule or based on soil dryness, and it knows when to stop if the tank’s running low. The fertilizer gets stirred in automatically when needed, and everything runs through an internal reservoir that keeps track of water levels and controls the intake from an external tank. The diagram walks through each step to show how the system responds and keeps your plants healthy with minimal effort.
+This flow diagram shows how our automatic plant watering and fertilizing system works. It’s designed for people living in apartments or town-homes who want to care for a few indoor plants. The system uses sensors to check soil moisture and water levels, and motors to handle watering and fertilizer mixing. It can water plants on a schedule or based on soil dryness, and it knows when to stop if the tank’s running low. The fertilizer gets stirred in automatically when needed, and everything runs through an internal reservoir that keeps track of water levels and controls the intake from an external tank. The diagram walks through each step to show how the system responds and keeps your plants healthy with minimal effort.
 
 ## Images
 
@@ -13,7 +13,7 @@ This flow diagram shows how our automatic plant watering and fertilizing system 
 ![secondary section](image/FertilizerSoftware.png){style="max-height:300px;"}
 **Figure 2:** Second half of the Activity Diagram
 
-For closer inspection of the three sections of the Activity Diagram please visit the ["Software Proposal Appendix"]() page in the appendix.
+For closer inspection of the three sections of the main Activity Diagram please visit the ["Software Proposal Appendix"](https://egr304-2025-f-102.github.io/Appendix/App-Software-prop/) page in the appendix.
 <!--
 ## Research Question
 
