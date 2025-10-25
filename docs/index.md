@@ -45,6 +45,6 @@ Edits for the team are based in App-team-org.md under docs - Appendix. and there
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Jacob Dirks            | [Jacobdirks.GitHub](https://github.com/JacobDirks/JacobDirks.github.io) |
+| Jacob Dirks            | [Jacobdirks.GitHub](https://jacobdirks.github.io/) |
 | Austin Gonzalez        | [AustinGonzalez-EGR304.GitHub](https://austingonzalez-egr304.github.io/) |
 | Terry Williams         |[tlwill38-bit.GitHub](https://tlwill38-bit.github.io/) |

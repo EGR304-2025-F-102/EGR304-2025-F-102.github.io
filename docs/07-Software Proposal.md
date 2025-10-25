@@ -8,13 +8,17 @@ This flow diagram shows how our automatic plant watering and fertilizing system 
 
 ## Images
 
-![bulk of Diagram](image/bulkSoftware.png){style="max-height:300px;"}
+![bulk of Diagram](image/bulkSoftware.png){style="max-height:200px;"}
+
 **Figure 1:** Majority of the Activity Diagram.
 
-![secondary section](image/FertilizerSoftware.png){style="max-height:300px;"}
+![secondary section](image/FertilizerSoftware.png){style="max-height:200px;"}
+
 **Figure 2:** Second half of the Activity Diagram
 
 For closer inspection of the three sections of the main Activity Diagram please visit the ["Software Proposal Appendix"](https://egr304-2025-f-102.github.io/Appendix/App-Software-prop/) page in the appendix.
+
+This is also available as a ["pdf file"](image/Software_Proposal.pdf) or through a ["drawio file"](image/Software_Proposal.drawio)
 <!--
 ## Research Question
 

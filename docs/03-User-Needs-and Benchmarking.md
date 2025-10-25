@@ -6,7 +6,7 @@ tags:
 ---
 <!-- This is the document we are supposed to edit.. It Looks like we aren't provided with too much of the output and that's ok
 Heads up we are asked to gather 100 need statements-->
-## Introduction to the Process
+## **Introduction to the Process**
 <!-- I want another place besides amazon -->
 Every project starts with a problem. Typically the problem comes from a group 
 that has some use case for the product or from a varying need that isn't answered 
@@ -50,13 +50,13 @@ cur, aut in adhuc crimina **habebat**: pro.-->
 
 -->
 
-## Search #1
+## **Search #1**
 
 **Keywords:** "automatic water for plants"
 
 **Search Results Link:**[https://www.amazon.com/s?k=automatic+water+for+plants&crid=2ORM7UKIQ0AZQ&sprefix=automatic+water+for+plant%2Caps%2C163&ref=nb_sb_noss_1](https://www.amazon.com/s?k=automatic+water+for+plants&crid=2ORM7UKIQ0AZQ&sprefix=automatic+water+for+plant%2Caps%2C163&ref=nb_sb_noss_1);
 
-## Selected Products
+## **Selected Products**
 
 ### 1. [Smart Automatic Plant Watering System- Plant Watering Devices for 20 Potted Plants, Auto Drip Irrigation System Programmable Timer & Compatible With Alexa](https://a.co/d/8LSiB7Y)
 
@@ -105,14 +105,13 @@ Vendor: Amazon
 | This product is a good concept for people with a small pot garden and no available hose outlet, such as on a patio or balcony. However, the plastic drippers are made of very soft plastic and are very difficult to insert fully into the tubing. Before they can be fully inserted, they typically bend or twist, and once that happens, they are finished. I tried warming the tubing with hot water, and gently using a heat gun, and even tried lubricating with soapy water, but nothing helped. | 1. The device needs to be compatible with parts. <br>2. The device needs design tolerance for material warpage and assembly. <br>3. The device needs a tool to assist difficult assembly parts. |
 | This solar drip irrigation system sounded great, but it didn’t meet my expectations. The solar panel needs full sun for a long time, or it won’t charge well. The pump is weak and couldn’t deliver water evenly to all 15 pots. The instructions were also confusing and made setup harder than it should be. It worked a little once running, but I had to keep checking on it. I gave it 2 stars because the idea is good, but the performance was not reliable. | 4. Device needs to evenly deliver water to setup outputs. <br>5. Device needs a way to quickly charge energy. <br>6. Setup needs to be straightforward. |
 
-
-## Search #3
+## **Search #3**
 
 **Keywords:** " automatic watering system"
 
 **Search Results Link:**[https://www.amazon.com/Automatic-Waterer-Watering-Vacation-Programmable/dp/B0FD9PXCB3/ref=sr_1_5_sspa?dib=eyJ2IjoiMSJ9.liy9xCm0BGiETj0-5qk2mVEvkbnp2ZBY1_ZdR9kXEQnS0-qXsHleI_I1pyB-3mGjRS4tL8AjhN5CWiQGkKdOU1Xlagv1IMw9xLkhr-eAJ7OFF6mvgjT4EyItU7tI8bGoT6gFCeQL_djg4ssVSzKp5tICby3V5rCQsSsSjfFPHm1dJI9fzLwGBuRlZoeYYj-16di9f05Y0GygEIUBxj3rb3MXtXMa8rL0iXMHpOskm1rH3zp1f3s1xN8jgxIgJv2ZsNeeUQSjKWbg9pk60vR_zGE4EAeEJGdGWo1_MpxHYCk.0jABVIHqR1bLrssOI6gR6lNCqmkxmy-JwrsJRCPm5eo&dib_tag=se&hvadid=694100114343&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=14274514274227157133--&hvqmt=e&hvrand=14274514274227157133&hvtargid=kwd-393061404842&hydadcr=24601_13626756&keywords=amazon+automatic+watering+system&mcid=1cfe897b5b7c3d959bd696de9950e532&qid=1757822468&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1](https://www.amazon.com/Automatic-Waterer-Watering-Vacation-Programmable/dp/B0FD9PXCB3/ref=sr_1_5_sspa?dib=eyJ2IjoiMSJ9.liy9xCm0BGiETj0-5qk2mVEvkbnp2ZBY1_ZdR9kXEQnS0-qXsHleI_I1pyB-3mGjRS4tL8AjhN5CWiQGkKdOU1Xlagv1IMw9xLkhr-eAJ7OFF6mvgjT4EyItU7tI8bGoT6gFCeQL_djg4ssVSzKp5tICby3V5rCQsSsSjfFPHm1dJI9fzLwGBuRlZoeYYj-16di9f05Y0GygEIUBxj3rb3MXtXMa8rL0iXMHpOskm1rH3zp1f3s1xN8jgxIgJv2ZsNeeUQSjKWbg9pk60vR_zGE4EAeEJGdGWo1_MpxHYCk.0jABVIHqR1bLrssOI6gR6lNCqmkxmy-JwrsJRCPm5eo&dib_tag=se&hvadid=694100114343&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=14274514274227157133--&hvqmt=e&hvrand=14274514274227157133&hvtargid=kwd-393061404842&hydadcr=24601_13626756&keywords=amazon+automatic+watering+system&mcid=1cfe897b5b7c3d959bd696de9950e532&qid=1757822468&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1);
 
-## Selected Products
+## **Selected Products**
 
 ### 1. [LetPot Automatic Watering System for Potted Plants, Drip Irrigation Kit System, Smart Plant Watering Devices for Indoor Outdoor, Water Shortage Remind, IPX66](https://a.co/d/0hPzhiT)
 
@@ -150,13 +149,11 @@ Vendor: Amazon
 | "I wish the app was integrated with Alexa."                                                                                   |                                                                          10. The user needs integration with smart home systems. (latent) |
 | "I need to be alerted if the system fails to execute a scheduled watering."                                                   |                                            11. The user needs to be alerted if the device fails to execute a scheduled watering. (latent) |
 
-
-
 **Keywords:** "automatic plant waterer"
 
 **Search Results Link:**[https://www.amazon.com/s?k=automatic+plant+waterer&crid=3O3ZFG50ZHRH4&sprefix=automatic+pl%2Caps%2C148&ref=nb_sb_ss_saint-en-prefix-wq_1_12](https://www.amazon.com/s?k=automatic+plant+waterer&crid=3O3ZFG50ZHRH4&sprefix=automatic+pl%2Caps%2C148&ref=nb_sb_ss_saint-en-prefix-wq_1_12);
 
-## Selected Products
+## **Selected Products**
 
 ### 1. [Raddy WS-1 Drip Irrigation Kit, 5W Solar Powered Automatic Watering System, Easy DIY Water Timer for Plants on The Balcony, Gardens, and Green House, Supported 15 Pots](https://a.co/d/1hwOo1y)
 
@@ -203,7 +200,7 @@ Price: $35.09
 
 **Search Results Link:**[https://www.amazon.com/s?k=automatic+watering+system&crid=ZUU5XN5FJMNL&sprefix=automatic+watering+system%2Caps%2C293&ref=nb_sb_noss_1](https://www.amazon.com/s?k=automatic+watering+system&crid=ZUU5XN5FJMNL&sprefix=automatic+watering+system%2Caps%2C293&ref=nb_sb_noss_1);
 
-## Selected Products
+## **Selected Products**
 
 ### 1. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer](https://a.co/d/1iT5VUf)
 
@@ -234,7 +231,7 @@ Price: $26.99
 
 **Search Results Link:**[https://www.amazon.com/s?k=automatic+irrigation+system&crid=22LM2F93T4F5Y&sprefix=automatic+irrig%2Caps%2C222&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_2_15](https://www.amazon.com/s?k=automatic+irrigation+system&crid=22LM2F93T4F5Y&sprefix=automatic+irrig%2Caps%2C222&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_2_15);
 
-## Selected Products
+## **Selected Products**
 
 ### 1. [Breeze Touch 50FT Automatic Solar Drip Irrigation System, Drip Irrigation Kit with 12 Timing Modes, Supported 15 Pots, Indoor/Outdoor Irrigation System for Garden, Balcony & Patio Watering System](https://a.co/d/bZ1iJA2)
 
@@ -257,7 +254,7 @@ Price: $26.99
 | "Can not get it to work.." | 2. The user was not able to get system working (explicit) |
 | "My one concern is how well it will work indoors during the winter, since we're located in MN and get a lot less sun and there will be a window involved." | 3. System has not been tested in colder weathers. (latent) |
 
-## Process
+## **Process**
 
 After gathering the user needs statements from these customer's who voiced their needs in regard to these products we started to group them.
 
@@ -289,10 +286,10 @@ Next we needed to rank the requirements. For the groups we had 4 deciding factor
  Once the groups were organized we were able to focus on ranking the needs themselves. Since their groups were a product of their similarities we decided that it should stay similar for their rankings.
 
 - Direct impact on system reliability and core performance
-    > - Ensure the system works, water delivery is consistent, and critical alerts are in place. 
+    > - Ensure the system works, water delivery is consistent, and critical alerts are in place.
 - User safety and failure prevention
     > - Alerts for low water or power, leak prevention and system failure points.
-- User Control and customization flexibility 
+- User Control and customization flexibility
     > - Features allowing users to customize their watering schedules and control work flows.
 - Ease of use and accessibility
     > - Items that reduce complexity, improve setup, or simplify operations.
@@ -301,13 +298,13 @@ Next we needed to rank the requirements. For the groups we had 4 deciding factor
 - Convenience
     > - Ease of installation and aesthetic decisions
 - Redundancies and backups
-    > - Backup's in case of weaker main systems. 
+    > - Backup's in case of weaker main systems.
 
-    Finally we had the end result of the ranked tables which can be found below in order of the deemed most important needs to less important needs. 
+    Finally we had the end result of the ranked tables which can be found below in order of the deemed most important needs to less important needs.
 
 #### User Needs Table
 
-The categories were determined based on criticality to core device function, user impact and usability, technical dependencies and feasibility, risk and safety considerations and less critical but still important aspects. We were able to narrow that down into 11 categories in no specific order. The need statments in the table below are in order of importance with most important being first per catagory. Our Team determined the ranking based on direct impact on system reliability and core performance, user safety and failure prevention, user control and customization flexibility, ease of use and accessibility, environmental resilience and durability, convenience and aesthetic features, and redundancies and backups. 
+The categories were determined based on criticality to core device function, user impact and usability, technical dependencies and feasibility, risk and safety considerations and less critical but still important aspects. We were able to narrow that down into 11 categories in no specific order. The need statements in the table below are in order of importance with most important being first per category. Our Team determined the ranking based on direct impact on system reliability and core performance, user safety and failure prevention, user control and customization flexibility, ease of use and accessibility, environmental resilience and durability, convenience and aesthetic features, and redundancies and backups.
 
 # Device Requirements Tables
 
