@@ -10,6 +10,7 @@ This flow diagram shows how our automatic plant watering and fertilizing system 
 
 ![bulk of Diagram](image/bulkSoftware.png){style="max-height:300px;"}
 **Figure 1:** Majority of the Activity Diagram.
+
 ![secondary section](image/FertilizerSoftware.png){style="max-height:300px;"}
 **Figure 2:** Second half of the Activity Diagram
 

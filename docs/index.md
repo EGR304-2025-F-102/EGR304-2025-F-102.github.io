@@ -15,7 +15,7 @@ Daniel Aukes <br>
   
 </center>
 
-## Team Introduction
+## **Team Introduction**
 
 Greetings viewers, the team welcomes you to our irrigation project webpage. This irrigation project can be split up into several sections and each one will be managed by a single team member. Jacob Dirks will handle the moisture sensor to ensure we avoid over-watering the plant and drowning it. Austin Gonzalez is in charge of communication between the various subsystems and handling the main reservoir pump. Terry Williams is in charge of monitoring the internal reservoir system to alert the consumer when the tank is low. Finally, David Cannon brings in a new feature that allows the user to not have to worry about scheduling fertilizer for their plant. This combination of features separates us from the current consumer market and the reason for these features can be found in the ["User Needs"](https://egr304-2025-f-102.github.io/03-User-Needs-and%20Benchmarking/) section of the document.
 
@@ -41,7 +41,7 @@ Edits for the team are based in App-team-org.md under docs - Appendix. and there
 >    - This needs to be updated to reflect a team introduction.<br>
 >    - Content should also help an unfamiliar reader navigate to areas of interest. -->
 
-## Team Members Datasheet links
+## **Team Members Datasheet links**
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
