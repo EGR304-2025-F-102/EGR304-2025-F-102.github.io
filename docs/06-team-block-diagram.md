@@ -1,5 +1,5 @@
 ---
-title: Block Diagram and Message Structure
+title: Block Diagram
 ---
 
 ## Introduction
@@ -24,7 +24,7 @@ Here are some close ups so they can be read easier.
 ![left half](image/leftHalfTeamBlockDiagram.png)
 ![right half](image/rightHalfTeamBlockDiagram.png)
 
-<!-- ADD DRAW.IO FILE -->
+<!-- ADD DRAW.IO FILE INSTEAD OF LINK ALSO ADD PDF AND FIX THESE IMAGES-->
 The full diagram can be found [on draw io here.](https://drive.google.com/file/d/1mQq123aZ8ixA7JW5bNxZQVQ9IIumbgWD/view?usp=sharing)
 
 <!--
