@@ -19,10 +19,17 @@ Each teammate is designing their own board, so it’s important to agree on how 
 
 ![Team Block Diagram](image/Team102BlockDiagram.png)
 
+**Figure 1:** The over all team block diagram.
+
 Here are some close ups so they can be read easier.
 
 ![left half](image/leftHalfTeamBlockDiagram.png)
+
+**Figure 2:** The left half of the team block diagram.
+
 ![right half](image/rightHalfTeamBlockDiagram.png)
+
+**Figure 3:** The right half of the team block diagram.
 
 <!-- ADD DRAW.IO FILE INSTEAD OF LINK ALSO ADD PDF AND FIX THESE IMAGES-->
 The full diagram can be found as a [pdf version](image/TeamBlockDiagram.pdf) and as a [draw io file.](image/EGR304TeamBlockDiagram.drawio)
