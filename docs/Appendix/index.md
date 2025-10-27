@@ -7,3 +7,4 @@ The Appendix is where we store supporting information that would have made the m
 * [Team Organization Information](https://egr304-2025-f-102.github.io/Appendix/App-Team-Org/)
 * [User Needs Information](https://egr304-2025-f-102.github.io/Appendix/App-User-Needs/)
 * [Software Proposal Information](https://egr304-2025-f-102.github.io/Appendix/App-Software-prop/)
+* [Design ideation clarification](https://egr304-2025-f-102.github.io/Appendix/App-Design-Ideation/)
