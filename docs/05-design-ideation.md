@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 
-## Intro/overview
+## Overview
 
 Our team set out to design a self-regulating irrigation system that’s reliable, easy to use, and built to last. We started by breaking down user needs and product requirements, then brainstormed five possible features for each one. From water-resistant seals to sturdy bases and simple refill options, we explored practical solutions that improve both function and user experience.
 Each team member brought a different focus—durability, ease of setup, safety, and maintenance—which helped us cover a wide range of ideas. We grouped the features into categories like Physical Design, User Control, and Safety, then ranked them based on how much they impact core functionality and overall experience.
@@ -48,7 +48,7 @@ The total list of features can be found right here:
 From there we decided to group them into 6 categories that represented the overall theme of the features. Even if that theme was not intended by the original developer.
 ![Unordered Features](featuresAssignmentImages/UnorderedFeatureGroups.jpg)
 
-## Step Three
+## Define Categories
 
 Core Functionality is the most important element as it directly alters how we go about designing the project.
 User experience is the next ranking category as it is important to ensure that the user has a great experience in order to continue using our product.
@@ -58,7 +58,9 @@ Value -added is our extra features that are nice to have but critical to the dev
 These four values led to a ranked list that can then be read here (if you really want to zoom in).
 ![Ordered Features](featuresAssignmentImages/OrderedFeatures.jpg)
 
-## Step Four
+Due to file difficulties and some data corruption we lost the files so we organized them based on the image in ["Appendix: Design Ideation"]()
+
+## Simple Advertisements
 
 <!-- THROW IN THE ONES YOU USED FOR THE ADS I put what I thought you did -->
 **Austins Design**
@@ -108,7 +110,7 @@ Brief list of features built into this simplified advertisement
 - Compatible with smaller external reservoirs 
 -->
 
-## Step Five
+## Process
 
 In order to brainstorm the features required in this process our team decided to split up the work and allow each person the freedom to think independently. This allowed our ideas to flourish without even a hint of fear of judgement. The result was as you just read a very well thought out list of ideas with characteristics coming from each team member. Although good luck figuring out who provided each idea. We did this assignment with quick meetings after class and through asynchronous work that was then compiled features onto a google doc for ease of sharing. The features were brainstormed from user needs and requirements developed in the User Needs and Benchmarking assignment. In order to choose the best elements each individual was allowed to choose based on their discretion. Austin prioritized ease of use, reliability, and safety as the basis for the requirements he chose and then proceeded to turn into features. Jacob chose requirements to boost product lifespan, user understanding and ease of setup. Terry chose based on the requirements perceived impact on durability and quality for different parts of the project. David focused on requirements that could build an easily maintainable device for a variety of circumstances. After gathering all of the features we looked at common ways to solve the problem either through brief google searches or by pulling up ideas that we’ve seen in the wild. This left our document with a number of features which we brought into a digital whiteboard which is shown in the images above. This white board allowed for easier movement of the features and facilitated the conversation with the group. This allowed us to group based on the six traits we recognized across each member’s features. These groups are User Control, Physical Design, Standard Operation, Safety Features, Backups, and Safety. Once grouped we ranked them based on core functionality which impacts project design, user experience which impacts our saleability, durability which builds safety, and extra values for things outside of the current needs.
 
