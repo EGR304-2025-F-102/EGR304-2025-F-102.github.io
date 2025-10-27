@@ -25,7 +25,7 @@ Here are some close ups so they can be read easier.
 ![right half](image/rightHalfTeamBlockDiagram.png)
 
 <!-- ADD DRAW.IO FILE INSTEAD OF LINK ALSO ADD PDF AND FIX THESE IMAGES-->
-The full diagram can be found [on draw io here.](https://drive.google.com/file/d/1mQq123aZ8ixA7JW5bNxZQVQ9IIumbgWD/view?usp=sharing)
+The full diagram can be found as a [pdf version](image/TeamBlockDiagram.pdf) and as a [draw io file.](image/EGR304TeamBlockDiagram.drawio)
 
 <!--
 ![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
