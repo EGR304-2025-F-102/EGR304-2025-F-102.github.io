@@ -258,7 +258,7 @@ Price: $26.99
 
 After gathering the user needs statements from these customer's who voiced their needs in regard to these products we started to group them.
 
-![Image of user needs spread out](UngroupedChaosUserNeeds.jpg)
+![Image of user needs spread out](UnorganizedUserNeeds.jpg)
 
 In order to fully get the groups flushed out we decided to keep a focus on items that were relatively close to each other. That being said there were a few groups that stuck out:
 
@@ -274,7 +274,7 @@ In order to fully get the groups flushed out we decided to keep a focus on items
 - Water quality and filtration
 - Parts that don't match other conditions so Miscellaneous
 
-![Image with groups for user needs](GroupingsUserNeeds.jpg)
+![Image with groups for user needs](Grouped.jpg)
 
 Next we needed to rank the requirements. For the groups we had 4 deciding factors:
 
