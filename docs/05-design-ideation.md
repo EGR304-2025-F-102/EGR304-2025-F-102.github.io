@@ -82,7 +82,7 @@ Brief list of features desired in this advertisement.
 
 **Terry's Design**
 Irrigation Watering System product description
-![Terry's Design Ideation](Terry'sDesignConcept.png)
+![Terry's Design Ideation](DesignIdeation.png)
 <!--Add your different product concepts stuff here -->
 
 Brief list of features elaborated on for this advertisement
