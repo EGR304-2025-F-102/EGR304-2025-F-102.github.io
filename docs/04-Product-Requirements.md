@@ -15,9 +15,9 @@ This project aims to investigate and develop smart plant irrigation technologies
 ## **Stakeholders** <!-- terry -->
 
 - **Target User** People with the intention of caring for and nuturing plant life, and in need of a system that can reliably  distribute water to plant life.
-- **Target purchaser** Target purchasers include people who want an irrigation system with the ability to keep track and account for all variables, such as tracking ph levels, and filtering solvents.
-- **Customer service** Prefers easy-to-repair and easy to understand watering system. Easy to answer questions about ph sensor and filter.
-- **Marketing & Sales division** Looks for selling points around system functions such as ph level sensor and and solvent filter.
+- **Target purchaser** Target purchasers include people who want an irrigation system with the ability to keep track and account for all variables, such as tracking moisture levels, and filtering solvents.
+- **Customer service** Prefers easy-to-repair and easy to understand watering system. Easy to answer questions about moisture sensor and filter.
+- **Marketing & Sales division** Looks for selling points around system functions such as moisture sensor and and solvent filter.
 - **Retailers** Prefer products that can be easily stored and keep tracked of. Irrigation system can be store in one container for one product.
 
 ## **Use Cases** <!-- jacob and terry -->
