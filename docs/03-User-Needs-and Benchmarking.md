@@ -83,7 +83,7 @@ Vendor: Amazon
 | "The device seems to be a great idea; however, the manufacturer provides virtually NO documentation. I also could not locate a website to ask for help. In 30 years of receiving items (books in the 90s), I have never given a rating of ONE star. Without good setup instructions, I will likely return the item for a refund and purchase another." | 1. Needs to have accessible documentation. (explicit) <br>2. Device needs to match presented expectation. (latent) |
 | "This item's light timer never worked. I manually turned it on in the evening and off in the morning. After only 3 uses, it did not work at all. I replaced the batteries and it still does not work. Very disappointed in this item." | 3. System needs redundancy as backups. (latent) <br>4. System needs manual control options. (explicit) <br>5. Device needs to be robust. (explicit) <br>6. The device needs to alert when low on power. (explicit) <br>7. The device needs a timer function if it’s not automatic. (explicit) |
 
-### 1. [Biling Solar Drip Irrigation System](https://a.co/d/hHT844u)
+### 2. [Biling Solar Drip Irrigation System](https://a.co/d/hHT844u)
 
 ![Biling Solar Drip Irrigation Product Picture](BilingSolarDripIrrigationProduct.png)
 
@@ -113,7 +113,7 @@ Vendor: Amazon
 
 ## **Selected Products**
 
-### 1. [LetPot Automatic Watering System for Potted Plants, Drip Irrigation Kit System, Smart Plant Watering Devices for Indoor Outdoor, Water Shortage Remind, IPX66](https://a.co/d/0hPzhiT)
+### 3. [LetPot Automatic Watering System for Potted Plants, Drip Irrigation Kit System, Smart Plant Watering Devices for Indoor Outdoor, Water Shortage Remind, IPX66](https://a.co/d/0hPzhiT)
 
 ![LetPot Automatic Watering System Amazon Picture](LetPotAutoWateringSysforPottedPlants.jpg)
 
@@ -155,7 +155,7 @@ Vendor: Amazon
 
 ## **Selected Products**
 
-### 1. [Raddy WS-1 Drip Irrigation Kit, 5W Solar Powered Automatic Watering System, Easy DIY Water Timer for Plants on The Balcony, Gardens, and Green House, Supported 15 Pots](https://a.co/d/1hwOo1y)
+### 4. [Raddy WS-1 Drip Irrigation Kit, 5W Solar Powered Automatic Watering System, Easy DIY Water Timer for Plants on The Balcony, Gardens, and Green House, Supported 15 Pots](https://a.co/d/1hwOo1y)
 
 ![Raddy WS-1 Drip Irrigation Kit Amazon Picture](RaddyWS1DripIrrigationKit.png)
 
@@ -202,7 +202,7 @@ Price: $35.09
 
 ## **Selected Products**
 
-### 1. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer](https://a.co/d/1iT5VUf)
+### 5. [Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants, Vacation Plant Watering Devices, Automatic Watering System with Digital Programmable Water Timer](https://a.co/d/1iT5VUf)
 
 ![Dual Pump Automatic Plant Waterer Indoor, Self Watering System for 30 Potted Plants](DualPumpAutoPlantWaterIndor.jpg)
 
@@ -233,7 +233,7 @@ Price: $26.99
 
 ## **Selected Products**
 
-### 1. [Breeze Touch 50FT Automatic Solar Drip Irrigation System, Drip Irrigation Kit with 12 Timing Modes, Supported 15 Pots, Indoor/Outdoor Irrigation System for Garden, Balcony & Patio Watering System](https://a.co/d/bZ1iJA2)
+### 6. [Breeze Touch 50FT Automatic Solar Drip Irrigation System, Drip Irrigation Kit with 12 Timing Modes, Supported 15 Pots, Indoor/Outdoor Irrigation System for Garden, Balcony & Patio Watering System](https://a.co/d/bZ1iJA2)
 
 ![Breeze Touch 50FT Automatic Solar Drip Irrigation System](BreezeTouch50ftAutoIrrigation.jpg)
 
