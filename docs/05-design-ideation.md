@@ -42,7 +42,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) | Quick connections  | The product should include quick connect ends. |
 | The user needs tubing that is easier to install on connectors without requiring additional tools or techniques. (explicit) | Memory tubing      | The product should have tubing that expands when heated and shrinks when cooled. |
 
-The total list of features can be found right here:
+The total list of features can be found right ["here:"](https://egr304-2025-f-102.github.io/Appendix/App-Design-Ideation/)
 ![Features by Person](featuresAssignmentImages/FeaturesUnderIndividual.jpg)
 
 From there we decided to group them into 6 categories that represented the overall theme of the features. Even if that theme was not intended by the original developer.
@@ -64,7 +64,7 @@ Due to file difficulties and some data corruption we lost the files so we organi
 
 <!-- THROW IN THE ONES YOU USED FOR THE ADS I put what I thought you did -->
 **Austins Design**
-Billboard style advertisment
+Billboard style advertisement
 ![Austins Design Ideation](updateed user design.png)
 
 Brief list of features desired in this advertisement.
@@ -93,7 +93,6 @@ Brief list of features elaborated on for this advertisement
 - Watertight seals and rubber washers
 - Multiple drip outputs
 - Turnable button for programming
-
 
 <!--**David's Design**
 Large Tank advertisement
