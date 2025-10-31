@@ -7,7 +7,7 @@ tags:
 
 ## **Project Objective** <!--JACOB: Fertilizer addition, drip irrigation continuity, sensor for how much solvents in the water and how much is there OR how much soil resitivity for pH and solvent absorption.-->
 
-This project aims to investigate and develop smart plant irrigation technologies, an improved user experience, improved product design, and product customization options for the irrigation technology. The target is to create a competitive product in the self-irrigating plant market, create sales and expand the user base more towards luxury and ease of access. We believe that adding drip irrigation continuity, pH management for the water, and an interchangeable filter for solvents will increase our competitive nature with our target users.
+This project aims to investigate and develop smart plant irrigation technologies, an improved user experience, improved product design, and product customization options for the irrigation technology. The target is to create a competitive product in the self-irrigating plant market, create sales and expand the user base more towards luxury and ease of access. We believe that adding drip irrigation continuity, soil moisture management for the water, and an interchangeable filter for solvents will increase our competitive nature with our target users.
 <!-- Might want to flush out a little more but it doesn't seem like its needed - Jacob Dirks-->
 
 <!--This project aims to investigate and develop smart adaptive technologies, an improved user experience, better fit, improved product design, and product customization options for the next-generation AirPods. The target is to maintain global dominance in the wireless earphone market, drive up AirPod sales to 100 million+ units sold with a 60% global market share in 2021 and expand the user base more towards the luxury, professional, and fitness segments. We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.-->
@@ -15,9 +15,9 @@ This project aims to investigate and develop smart plant irrigation technologies
 ## **Stakeholders** <!-- terry -->
 
 - **Target User** People with the intention of caring for and nuturing plant life, and in need of a system that can reliably  distribute water to plant life.
-- **Target purchaser** Target purchasers include people who want an irrigation system with the ability to keep track and account for all variables, such as tracking ph levels, and filtering solvents.
-- **Customer service** Prefers easy-to-repair and easy to understand watering system. Easy to answer questions about ph sensor and filter.
-- **Marketing & Sales division** Looks for selling points around system functions such as ph level sensor and and solvent filter.
+- **Target purchaser** Target purchasers include people who want an irrigation system with the ability to keep track and account for all variables, such as tracking moisture levels, and filtering solvents.
+- **Customer service** Prefers easy-to-repair and easy to understand watering system. Easy to answer questions about moisture sensor and filter.
+- **Marketing & Sales division** Looks for selling points around system functions such as moisture sensor and and solvent filter.
 - **Retailers** Prefer products that can be easily stored and keep tracked of. Irrigation system can be store in one container for one product.
 
 ## **Use Cases** <!-- jacob and terry -->
@@ -77,7 +77,7 @@ The new product design will be based on existing related products with improveme
 - 1.1.3 - All external edges rounded to radius ≥ 1.5 mm; use of impact-resistant plastics and no glass components.
 - 2.2.1 - Each nozzle delivers 50–150 mL/min within ±10% flow rate variation.
 - 2.2.2 - One LED for low water level (triggered at ≤20% tank volume), one LED for system fault; visible at 6ft in daylight.
-- 2.2.3 - pH measurement range 4.0–9.0 with ±0.2 accuracy.
+- 2.2.3 - soil moisture measurement range with ±10% repeatablilty.
 - 3.3.1 - Tubing manifold supports over 4 plant outlets with no pressure drop exceeding 15%.
 - 3.3.2 - Programmable timer with adjustable intervals (4 h – 72 h).
 - 3.3.3 - Fertilizer cartridge capacity ≥ 50 mL with a dosing accuracy within ±10%.
@@ -94,5 +94,5 @@ The new product design will be based on existing related products with improveme
 
 - Can we have our product be compatible with any water container size?
 - Can we create a product that blends into the home environment?
-- Can we ensure that our PH sensors wont come out of specification.
+- Can we ensure that our moisture sensors wont come out of specification.
 - Can we ensure replacement parts are included in case of hard water build up.
