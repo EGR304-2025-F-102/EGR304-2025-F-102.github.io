@@ -17,7 +17,7 @@ Each teammate is designing their own board, so it’s important to agree on how 
 
 ## Images
 
-![Team Block Diagram](image/Team102BlockDiagram.png)
+![Team Block Diagram](EGR 304 Team102 block Diagram Team Assignment.drawio (1).png)
 
 **Figure 1:** The over all team block diagram.
 
