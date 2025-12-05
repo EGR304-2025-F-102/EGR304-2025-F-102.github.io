@@ -17,7 +17,7 @@ Each teammate is designing their own board, so it’s important to agree on how 
 
 ## Images
 
-![Team Block Diagram](image/Team102BlockDiagram.png)
+![Team Block Diagram](EGR 304 Team102 block Diagram Team Assignment.drawio (1).png)
 
 **Figure 1:** The over all team block diagram.
 
@@ -28,6 +28,30 @@ Here are some close ups so they can be read easier.
 **Figure 2:** The left half of the team block diagram.
 
 ![right half](image/rightHalfTeamBlockDiagram.png)
+
+Now in order for clarification between the team members we also have tables regarding the use of each pin on the 8 pin ribbon connectors.
+
+| Pin Number | Signal Name | Jacob's Relation | Austin's Relation |
+|:----------- |:----------- |:----------- |:----------- |
+| 1 | Processing Signal | Sends | Recieves |
+| 2 | Request Signal | Recieves | Sends |
+| 3 | Timer Signal from Terry | Recieves | Sends |
+| 4 | Timer Relay | Sends | Recieves |
+| 5 | Back up | N/A | N/A |
+| 6 | Analog Moisture Signal |  |
+| 7 | Back up Analog | N/A | N/A |
+| 8 | Ground | Common | Common |
+
+| Pin Number | Signal Name | Terry's Relation | Austin's Relation |
+|:----------- |:----------- |:----------- |:----------- |
+| 1 | Request Signal | Recieves | Sends |
+| 2 | Back up | N/A | N/A |
+| 3 | Timer Signal | Sends | Recieves |
+| 4 | Back up | N/A | N/A |
+| 5 | Back up | N/A | N/A |
+| 6 | Processing Signal | Sends | Recieves |
+| 7 | Back up Analog | N/A | N/A |
+| 8 | Ground | Common | Common |
 
 **Figure 3:** The right half of the team block diagram.
 

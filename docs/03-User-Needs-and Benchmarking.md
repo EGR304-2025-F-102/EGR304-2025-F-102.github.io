@@ -8,10 +8,10 @@ tags:
 Heads up we are asked to gather 100 need statements-->
 ## **Introduction to the Process**
 <!-- I want another place besides amazon -->
-Every project starts with a problem. Typically the problem comes from a group  
-that has some use case for the product or from a varying need that isn't answered  
-by the current market. In order to make a useful item to the everyday house owner,  
-cleaner, and guardian we must search in the places where their voices can be heard.
+Every project starts with a problem. Typically the problem comes from a group 
+that has some use case for the product or from a varying need that isn't answered 
+by the current market. In order to make a useful item to the everyday house owner, 
+cleaner, and guardian we must search in the places where their voices can be heard. 
 This will include online shopping areas with reviews like **Amazon**(https:/www.amazon.com).
 We will be look for several elements for each item:
 
