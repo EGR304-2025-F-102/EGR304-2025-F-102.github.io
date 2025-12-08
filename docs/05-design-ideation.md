@@ -84,8 +84,10 @@ Brief list of features desired in this advertisement.
 
 **Terry's Design**
 Irrigation Watering System product description
-![Terry's Design Ideation](DesignIdeation.png)
+![Terry's Design Ideation](UpdatedTerry.png)
 <!--Add your different product concepts stuff here -->
+
+Terry’s new design was inspired by the need for a more reliable and controlled irrigation setup that could operate safely even in high-heat conditions. The idea came from exploring ways to prevent overflow and leaks, which led to features like watertight seals, rubber washers, and pipes that automatically shut off after a set amount of water passes through. After comparing different concepts, the system evolved into a secure, multi-output layout that focuses on consistent flow and long-term durability. The addition of a turnable programming button came from wanting a simple, hands-on way to control watering without overcomplicating the user experience.
 
 Brief list of features elaborated on for this advertisement
 
