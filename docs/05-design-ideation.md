@@ -98,7 +98,9 @@ Brief list of features elaborated on for this advertisement
 
 **Jacobs's Design**
 Large Tank advertisement
-![Cover Design Ideation](DesignConcept.png)
+![Cover Design Ideation](Jacobs Picture.png)
+
+Jacob’s design was built by taking the original irrigation goals and turning them into practical features that would make the system stable, simple, and easy to refill. After comparing different ideas, the concept shifted toward a gravity-fed setup with a large internal tank, a wide footprint, and multiple output lines to handle several plants at once. The funnel and bottom-mounted tank were added to make the system easier to use while also improving stability through water weight. Overall, the design reflects the features that made the most sense for real garden use, including compatibility with siphons and external reservoirs.
 
 Brief list of features built into this simplified advertisement
 
