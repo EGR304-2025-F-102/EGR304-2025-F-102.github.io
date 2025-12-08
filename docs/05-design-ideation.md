@@ -64,8 +64,10 @@ Due to file difficulties and some data corruption we lost the files so we organi
 
 <!-- THROW IN THE ONES YOU USED FOR THE ADS I put what I thought you did -->
 **Austins Design**
-Billboard style advertisement
-![Austins Design Ideation](updateed user design.png)
+advertisement
+![Austins Design Ideation](UpdatedUserDesignPhoto.png)
+
+Austin’s design came together by breaking down all the user needs and product requirements, then brainstorming a bunch of possible features for each one to see what would actually work in real life. After organizing everything into categories like Physical Design, User Control, and Safety, it became easier to see which ideas would have the biggest impact. Ranking those features helped narrow the focus toward reliability, ease of use, and durability. The final design reflects the strongest ideas—like preventing leaks, keeping the controls simple, and making the whole system look clean and aesthetically pleasing.
 
 Brief list of features desired in this advertisement.
 
