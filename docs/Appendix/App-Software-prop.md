@@ -1,5 +1,5 @@
 ---
-title: "Appendix: Software Proposal"
+title: "Appendix: Software Design"
 tags:
 - tag1
 - tag2

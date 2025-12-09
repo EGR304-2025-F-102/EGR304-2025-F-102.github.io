@@ -98,7 +98,7 @@ Brief list of features elaborated on for this advertisement
 - Multiple drip outputs
 - Turnable button for programming
 
-**Jacobs's Design**
+**Jacob's Design**
 Large Tank advertisement
 ![Cover Design Ideation](Jacobs Picture.png)
 
@@ -112,13 +112,13 @@ Brief list of features built into this simplified advertisement
 - Gravity fed output
 - Water tank at bottom for added weight
 - Funnel can be used for a siphon's output
-- Compatible with smaller external reservoirs 
-
+- Compatible with smaller external reservoirs
 
 ## Process
 
 In order to brainstorm the features required in this process our team decided to split up the work and allow each person the freedom to think independently. This allowed our ideas to flourish without even a hint of fear of judgement. The result was as you just read a very well thought out list of ideas with characteristics coming from each team member. Although good luck figuring out who provided each idea. We did this assignment with quick meetings after class and through asynchronous work that was then compiled features onto a google doc for ease of sharing. The features were brainstormed from user needs and requirements developed in the User Needs and Benchmarking assignment. In order to choose the best elements each individual was allowed to choose based on their discretion. Austin prioritized ease of use, reliability, and safety as the basis for the requirements he chose and then proceeded to turn into features. Jacob chose requirements to boost product lifespan, user understanding and ease of setup. Terry chose based on the requirements perceived impact on durability and quality for different parts of the project. David focused on requirements that could build an easily maintainable device for a variety of circumstances. After gathering all of the features we looked at common ways to solve the problem either through brief google searches or by pulling up ideas that we’ve seen in the wild. This left our document with a number of features which we brought into a digital whiteboard which is shown in the images above. This white board allowed for easier movement of the features and facilitated the conversation with the group. This allowed us to group based on the six traits we recognized across each member’s features. These groups are User Control, Physical Design, Standard Operation, Safety Features, Backups, and Safety. Once grouped we ranked them based on core functionality which impacts project design, user experience which impacts our saleability, durability which builds safety, and extra values for things outside of the current needs.
 
+In the end we went with a design that merged Terry's smart metering with Austin's simple interface to create a system that keeps the footprint minimal as well as easier for the user to interact with, keeping with our developed user needs. However, we realized that wouldn't match the project requirements just yet so we added in the moisture sensor subsystem to ensure we got to that complexity requirement.
 <!--
 
 ## Step Six (video link)

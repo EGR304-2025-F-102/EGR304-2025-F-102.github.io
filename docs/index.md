@@ -25,7 +25,9 @@ Other sections that might be useful:
 * To review the ideas behind our design please visit the ["Design Ideation"](https://egr304-2025-f-102.github.io/05-design-ideation/) section of the document.
 * To review how we measure our ["Product Requirements"](https://egr304-2025-f-102.github.io/04-Product-Requirements/) please visit that section of the document.
 * To review our block diagrams please either visit the individual links below or visit the ["Team Block Diagram"](https://egr304-2025-f-102.github.io/06-team-block-diagram/) section of the document.
-* To review our proposed software communication please visit the ["Software Proposal"](https://egr304-2025-f-102.github.io/07-Software%20Proposal/) section of the document.
+* To review our proposed software communication please visit the ["Software Design"](https://egr304-2025-f-102.github.io/07-Software%20Proposal/) section of the document.
+* To review our resources for this project, please visit the ["Resources"](https://egr304-2025-f-102.github.io/08-Resources/) section of the document.
+* To review our reflection on this project, please visit the ["Reflection"](https://egr304-2025-f-102.github.io/09-Reflection/) section of the document.
 
 <!-- so we can remove the added pieces of this introduction  - Edits here include linking to individual data sheets and team introduction (help figuring out what that means)
 Edits for the team are based in App-team-org.md under docs - Appendix. and there will be other comments there -->

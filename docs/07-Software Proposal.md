@@ -1,5 +1,5 @@
 ---
-title: Software Proposal
+title: Software Design
 ---
 
 ## Introduction
@@ -16,7 +16,19 @@ This flow diagram shows how our automatic plant watering and fertilizing system 
 
 **Figure 2:** Second half of the Activity Diagram
 
-For closer inspection of the three sections of the main Activity Diagram please visit the ["Software Proposal Appendix"](https://egr304-2025-f-102.github.io/Appendix/App-Software-prop/) page in the appendix.
+For closer inspection of the three sections of the main Activity Diagram please visit the ["Software Design Appendix"](https://egr304-2025-f-102.github.io/Appendix/App-Software-prop/) page in the appendix.
+
+## **Alterations since the Original Proposal**
+
+1.
+2.
+3.
+4.
+5.
+
+## **Creating Version 2.0**
+
+
 
 This is also available as a ["pdf file"](image/Software_Proposal.pdf) or through a ["drawio file"](image/Software_Proposal.drawio)
 <!--
