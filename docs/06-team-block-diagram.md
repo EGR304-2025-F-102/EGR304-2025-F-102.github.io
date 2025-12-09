@@ -46,10 +46,10 @@ Now in order for clarification between the team members we also have tables rega
 |:----------- |:----------- |:----------- |:----------- |
 | 1 | Request Signal | Receives | Sends |
 | 2 | Back up | N/A | N/A |
-| 3 | Timer Signal | Sends | Receives |
+| 3 | Processing Signal | Sends | Receives |
 | 4 | Back up | N/A | N/A |
-| 5 | Back up | N/A | N/A |
-| 6 | Processing Signal | Sends | Receives |
+| 5 | Timer | Sends | Receives |
+| 6 | Sensor Signal | Sends | Receives |
 | 7 | Back up Analog | N/A | N/A |
 | 8 | Ground | Common | Common |
 
