@@ -20,11 +20,11 @@ For closer inspection of the three sections of the main Activity Diagram please 
 
 ## **Alterations since the Original Proposal**
 
-1.Originally, we had four team members on this project. When our team dropped to three, we removed one of our original subsystems—our external reservoir pump. This also required changes in project responsibilities, as we had to redistribute roles within the remaining subsystems.
+1. Originally, we had four team members on this project. When our team dropped to three, we removed one of our original subsystems—our external reservoir pump. This also required changes in project responsibilities, as we had to redistribute roles within the remaining subsystems.
 2. We had planned to communicate over UART, but this proved to be more time-consuming than anticipated. As a result, we changed our design to run solely on high and low signals using GPIO pins.
-3.We initially sent signals only when our own systems needed or wanted something, but this made debugging and overall system function extremely difficult. As a team, we sat down and created a handshake system initiated by one subsystem, which greatly simplified the code and improved reliability.
-4.
-5.
+3. We initially sent signals only when our own systems needed or wanted something, but this made debugging and overall system function extremely difficult. As a team, we sat down and created a handshake system initiated by one subsystem, which greatly simplified the code and improved reliability.
+4. 
+5. 
 
 ## **Creating Version 2.0**
 
