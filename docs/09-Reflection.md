@@ -16,7 +16,7 @@ Over the duration of the semester, Team 102 has learned numerous things about em
 6. Expect alterations to the requirements and expectations daily. Most of the time you could get away with reading through the requirements each time an assignment comes up. However, there were several that changed a number of times either due to over estimations on the teaching side or class wide problems on the student side. Whatever the case may be, we had to quickly adjust several times and that flexibility should be helpful in later projects.
 7. Make friends fast with both the teaching team and your team. This will not only help ensure you can get help when needed but also allow you to ask questions and get more work done in crunch zones due to the support from others.
 8. Quadruple check something if there's event a slight bit of uncertainty and its a new topic for you. This would have saved a lot of time from building the schematic to even setting up the block diagram and software design. As there were simple errors that while not technically invalid were not what the class wanted and that caused more time to be eaten up to fix it rather than having asked questions early on.
-9. 
+9. You're never the only one whos having issues, chances are others are having the same issues as you. Utilize the discussion boards and also walk around class and talk to people about whats going on in their projects.
 10. 
 
 ### **Recommendations for future students:**
