@@ -16,8 +16,6 @@ This flow diagram shows how our automatic plant watering and fertilizing system 
 
 **Figure 2:** Second half of the Activity Diagram
 
-For closer inspection of the three sections of the main Activity Diagram please visit the ["Software Design Appendix"](https://egr304-2025-f-102.github.io/Appendix/App-Software-prop/) page in the appendix.
-
 ## **Alterations since the Original Proposal**
 
 1. Originally, we had four team members on this project. When our team dropped to three, we removed one of our original subsystems—our external reservoir pump. This also required changes in project responsibilities, as we had to redistribute roles within the remaining subsystems.
