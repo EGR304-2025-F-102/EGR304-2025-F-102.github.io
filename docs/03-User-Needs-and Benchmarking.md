@@ -300,7 +300,7 @@ Next we needed to rank the requirements. For the groups we had 4 deciding factor
 - Redundancies and backups
     > - Backup's in case of weaker main systems.
 
-    Finally we had the end result of the ranked tables which can be found in the ["User Needs Appendix"](https://egr304-2025-f-102.github.io/Appendix/App-User-Needs/) section of the document in the order of most important needs to less important needs.
+    Finally we had the end result of the **ranked** tables which can be found in the ["User Needs Appendix"](https://egr304-2025-f-102.github.io/Appendix/App-User-Needs/) section of the document in the order of most important needs to less important needs.
 
 <!-- The extra tabs over on the if makes it appear embedded which might be nice
 

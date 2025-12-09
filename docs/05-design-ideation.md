@@ -58,7 +58,7 @@ Value -added is our extra features that are nice to have but critical to the dev
 These four values led to a ranked list that can then be read here (if you really want to zoom in).
 ![Ordered Features](featuresAssignmentImages/OrderedFeatures.jpg)
 
-Due to file difficulties and some data corruption we lost the files so we organized them based on the image in ["Appendix: Design Ideation"](https://egr304-2025-f-102.github.io/Appendix/App-Design-Ideation/)
+Due to file difficulties and some data corruption we lost the files so we organized and **ranked** them based on an earlier image and provided logic in ["Appendix: Design Ideation"](https://egr304-2025-f-102.github.io/Appendix/App-Design-Ideation/)
 
 ## Simple Advertisements
 

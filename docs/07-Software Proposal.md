@@ -8,9 +8,9 @@ This flow diagram shows how our automatic plant watering and fertilizing system 
 
 ## Images
 
-![bulk of Diagram](Software Proposal.drawio.png){style="max-height:400px;"}
+![bulk of Diagram](image/bulkSoftware.png){style="max-height:400px;"}
 
-**Figure 1:** Majority of the Activity Diagram.
+**Figure 1:** First half of the Activity Diagram.
 
 ![secondary section](image/FertilizerSoftware.png){style="max-height:400px;"}
 
@@ -27,6 +27,7 @@ For closer inspection of the three sections of the main Activity Diagram please 
 5.
 
 ## **Creating Version 2.0**
+
 For Version 2 of our irrigation system, several key design improvements would be implemented to enhance usability, functionality, and long-term performance. One of the primary upgrades would be developing a cleaner, more intuitive user interface with improved visual indicators that clearly communicate system status and operational modes. Alongside these visual cues, we would integrate an audible tone to provide immediate feedback during actions such as mode changes, error notifications, or completed watering cycles. This combination of auditory and visual signaling would make the system significantly easier to operate.
 
 Another meaningful enhancement would be incorporating a small digital clock display. This would serve multiple purposes, including presenting real-time system timing, enabling better scheduling functionality, and supporting future features such as delayed watering, daily logs, or timed maintenance reminders. We would also upgrade the motor and pump connectors by replacing screw terminals with more reliable, user-friendly connectors to improve both safety and ease of assembly.
@@ -35,8 +36,7 @@ In terms of hardware performance, Version 2 would prioritize quieter components 
 
 Overall, these improvements would make the second version of the system more user-friendly, more expandable, and better suited for real-world use.
 
-
-This is also available as a ["pdf file"](Software Proposal.drawio.pdf) or through a ["drawio file"](image/Software_Proposal.drawio)
+This is also available as a ["pdf file"](image/Software_Proposal.pdf) or through a ["drawio file"](image/Software_Proposal.drawio)
 <!--
 ## Research Question
 
