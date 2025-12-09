@@ -25,3 +25,14 @@ This section of our site provides a consolidated showcase of our team’s work, 
     allowfullscreen>
   </iframe>
 </div>
+
+## Reflection 
+Over the duration of the semester, Team 102 has learned numerous things about embedded design. Some of our key lessons were to choose a project that is realistic for the time given and clearly verified to meet the project criteria, to stay proficient with the lab material because many of the schematics we used in our project were very similar to what we practiced in class, and to keep each other on track with a shared calendar of deadlines and details so we are not surprised by how extensive some assignments are.
+
+**Recommendations for future students:**
+
+- Spend extra time learning the coding portions at the beginning of the semester.  
+- If you have a teammate who isn’t pulling their weight, address it as soon as possible.  
+- Consider investing in some of your own equipment, especially if you live farther from campus.  
+- Try to schedule a regular meeting time with your group before or after every class.  
+- Don’t rely on classroom parts always being available when it’s time to build your project.
